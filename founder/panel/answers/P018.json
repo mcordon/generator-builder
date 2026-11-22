@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Hoje eu atendo meus clientes de ERP com RustDesk e AnyDesk grátis e funciona. Pagar R$ 119 por técnico mais R$ 1.500 de implantação só pra ter meu logo no programa não se paga pra mim, ninguém está me obrigando a trocar.",
+  "objection": "R$ 1.500 de implantação é caro, os outros não cobram, e o RustDesk eu mesmo consigo personalizar de graça. Pagar mensalidade por técnico pra uma coisa que já tenho de graça é dinheiro jogado fora.",
+  "would_change_my_mind": "Se o AnyDesk grátis começar a bloquear meu uso comercial ou meus clientes começarem a reclamar e exigir programa com a nossa marca; aí eu olharia o Plano Técnico, sem implantação, com teste grátis.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 59,
+  "price_too_expensive": 89
+}

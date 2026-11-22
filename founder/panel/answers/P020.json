@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Uso o AnyDesk há anos e funciona; trocar toda a base de clientes para um produto que acabou de nascer é arriscar meu suporte inteiro para resolver um problema de marca que me incomoda só de vez em quando.",
+  "objection": "É um produto novo, e se a empresa sumir ou o servidor cair? Meus clientes ficam sem atendimento e quem leva a culpa sou eu.",
+  "would_change_my_mind": "Um teste grátis de 30 dias em paralelo ao AnyDesk, com SLA de disponibilidade por escrito e referências de outras empresas de software que já usam há meses sem queda.",
+  "price_too_cheap": 30,
+  "price_cheap": 69,
+  "price_expensive": 119,
+  "price_too_expensive": 180
+}

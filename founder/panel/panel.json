@@ -1,0 +1,101 @@
+{
+ "n": 20,
+ "seed": 218188,
+ "customer": {
+  "business": "ScSuporte WL (software de suporte remoto com a marca do cliente)",
+  "target": "Dono ou gestor de uma pequena empresa brasileira de TI ou de software que dá suporte remoto aos próprios clientes, com 1 a 10 técnicos",
+  "where": "Brasil, online",
+  "age": [
+   25,
+   55
+  ],
+  "segments": [
+   {
+    "name": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+    "share": 0.4,
+    "income": [
+     60000,
+     360000
+    ]
+   },
+   {
+    "name": "Empresa de software de gestão/ERP ou automação comercial (3 a 10 técnicos de suporte)",
+    "share": 0.3,
+    "income": [
+     500000,
+     4000000
+    ]
+   },
+   {
+    "name": "Provedor de internet regional ou MSP (3 a 15 técnicos)",
+    "share": 0.2,
+    "income": [
+     800000,
+     6000000
+    ]
+   },
+   {
+    "name": "Equipe de suporte de empresa média de outro setor",
+    "share": 0.1,
+    "income": [
+     5000000,
+     30000000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Usa ferramenta grátis",
+    "share": 0.25,
+    "how": "Hoje usa RustDesk, AnyDesk grátis ou Assistência Rápida do Windows e só paga se for obrigado."
+   },
+   {
+    "name": "Fiel ao concorrente pago",
+    "share": 0.2,
+    "how": "Paga TeamViewer, AnyDesk ou Splashtop há anos e tem medo de trocar e dar problema."
+   },
+   {
+    "name": "Caçador de preço",
+    "share": 0.15,
+    "how": "Compara tabela por tabela e escolhe o mais barato que funcione."
+   },
+   {
+    "name": "Quer parecer maior",
+    "share": 0.15,
+    "how": "Investe em marca e quer que o cliente veja o nome da empresa dele em tudo."
+   },
+   {
+    "name": "Preocupado com segurança e LGPD",
+    "share": 0.1,
+    "how": "Pergunta sobre criptografia, registro de sessões e onde ficam os dados antes de qualquer coisa."
+   },
+   {
+    "name": "Técnico que monta sozinho",
+    "share": 0.1,
+    "how": "Prefere configurar o próprio servidor e gerar o próprio cliente com marca."
+   },
+   {
+    "name": "Decide rápido por indicação",
+    "share": 0.05,
+    "how": "Compra o que um colega do setor recomenda, sem pesquisar muito."
+   }
+  ],
+  "objections": [
+   "Já uso uma ferramenta grátis que funciona",
+   "R$ 1.500 de implantação é caro, os outros não cobram",
+   "É um produto novo, e se a empresa sumir ou o servidor cair?",
+   "O antivírus do meu cliente vai bloquear e ele vai achar que é golpe",
+   "Trocar de ferramenta dá trabalho com todos os meus clientes",
+   "Não sei se a conexão é boa em internet fraca",
+   "Splashtop ou Zoho custam menos por técnico"
+  ],
+  "habits": [
+   "você atende a maioria dos clientes por WhatsApp e depois pede para instalar um programa de acesso",
+   "seus clientes são pequenos comércios, escritórios e clínicas do interior",
+   "você já teve cliente que desconfiou de golpe quando pediu para instalar o AnyDesk",
+   "você paga as ferramentas no cartão da empresa e precisa de nota fiscal",
+   "você participa de grupos de técnicos e revendas no WhatsApp e no Facebook"
+  ]
+ },
+ "pitch": "ScSuporte WL: programa de acesso remoto para suporte técnico, entregue com o nome e o logo da sua empresa.\nSeu cliente baixa e instala um programa com a sua marca, assinado digitalmente, sem o nome de outra empresa.\nPlano Marca Completa: R$ 119 por técnico por mês (mínimo 2 técnicos), computadores atendidos ilimitados, mais R$ 1.500 de implantação: nós montamos o programa com a sua marca, configuramos seu subdomínio, instalamos e treinamos sua equipe.\nPlano Técnico: R$ 89 por técnico por mês, sem implantação, você mesmo coloca o seu logo no painel.\nPagamento por PIX, boleto ou cartão, com nota fiscal, servidor no Brasil e cancelamento sem multa.\nOferta de lançamento: as 5 primeiras empresas pagam R$ 750 de implantação, até 31/01/2027."
+}

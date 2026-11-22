@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "June",
+  "age": 25,
+  "segment": "Provedor de internet regional ou MSP (3 a 15 técnicos)",
+  "income": 1159000,
+  "behaviour": "Usa ferramenta grátis",
+  "behaviour_how": "Hoje usa RustDesk, AnyDesk grátis ou Assistência Rápida do Windows e só paga se for obrigado.",
+  "objection": "Já uso uma ferramenta grátis que funciona",
+  "habit": "você atende a maioria dos clientes por WhatsApp e depois pede para instalar um programa de acesso"
+ },
+ {
+  "id": "P002",
+  "name": "Jade",
+  "age": 36,
+  "segment": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+  "income": 224000,
+  "behaviour": "Fiel ao concorrente pago",
+  "behaviour_how": "Paga TeamViewer, AnyDesk ou Splashtop há anos e tem medo de trocar e dar problema.",
+  "objection": "Não sei se a conexão é boa em internet fraca",
+  "habit": "seus clientes são pequenos comércios, escritórios e clínicas do interior"
+ },
+ {
+  "id": "P003",
+  "name": "Wes",
+  "age": 32,
+  "segment": "Equipe de suporte de empresa média de outro setor",
+  "income": 14228000,
+  "behaviour": "Usa ferramenta grátis",
+  "behaviour_how": "Hoje usa RustDesk, AnyDesk grátis ou Assistência Rápida do Windows e só paga se for obrigado.",
+  "objection": "Splashtop ou Zoho custam menos por técnico",
+  "habit": "você atende a maioria dos clientes por WhatsApp e depois pede para instalar um programa de acesso"
+ },
+ {
+  "id": "P004",
+  "name": "Rosa",
+  "age": 32,
+  "segment": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+  "income": 148000,
+  "behaviour": "Preocupado com segurança e LGPD",
+  "behaviour_how": "Pergunta sobre criptografia, registro de sessões e onde ficam os dados antes de qualquer coisa.",
+  "objection": "É um produto novo, e se a empresa sumir ou o servidor cair?",
+  "habit": "você atende a maioria dos clientes por WhatsApp e depois pede para instalar um programa de acesso"
+ },
+ {
+  "id": "P005",
+  "name": "Yara",
+  "age": 53,
+  "segment": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+  "income": 210000,
+  "behaviour": "Técnico que monta sozinho",
+  "behaviour_how": "Prefere configurar o próprio servidor e gerar o próprio cliente com marca.",
+  "objection": "Não sei se a conexão é boa em internet fraca",
+  "habit": "você já teve cliente que desconfiou de golpe quando pediu para instalar o AnyDesk"
+ },
+ {
+  "id": "P006",
+  "name": "Marco",
+  "age": 53,
+  "segment": "Provedor de internet regional ou MSP (3 a 15 técnicos)",
+  "income": 3026000,
+  "behaviour": "Quer parecer maior",
+  "behaviour_how": "Investe em marca e quer que o cliente veja o nome da empresa dele em tudo.",
+  "objection": "É um produto novo, e se a empresa sumir ou o servidor cair?",
+  "habit": "você paga as ferramentas no cartão da empresa e precisa de nota fiscal"
+ },
+ {
+  "id": "P007",
+  "name": "Luca",
+  "age": 44,
+  "segment": "Empresa de software de gestão/ERP ou automação comercial (3 a 10 técnicos de suporte)",
+  "income": 1150000,
+  "behaviour": "Caçador de preço",
+  "behaviour_how": "Compara tabela por tabela e escolhe o mais barato que funcione.",
+  "objection": "É um produto novo, e se a empresa sumir ou o servidor cair?",
+  "habit": "você já teve cliente que desconfiou de golpe quando pediu para instalar o AnyDesk"
+ },
+ {
+  "id": "P008",
+  "name": "Elena",
+  "age": 25,
+  "segment": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+  "income": 225000,
+  "behaviour": "Decide rápido por indicação",
+  "behaviour_how": "Compra o que um colega do setor recomenda, sem pesquisar muito.",
+  "objection": "O antivírus do meu cliente vai bloquear e ele vai achar que é golpe",
+  "habit": "você atende a maioria dos clientes por WhatsApp e depois pede para instalar um programa de acesso"
+ },
+ {
+  "id": "P009",
+  "name": "Beatriz",
+  "age": 32,
+  "segment": "Empresa de software de gestão/ERP ou automação comercial (3 a 10 técnicos de suporte)",
+  "income": 1562000,
+  "behaviour": "Caçador de preço",
+  "behaviour_how": "Compara tabela por tabela e escolhe o mais barato que funcione.",
+  "objection": "Trocar de ferramenta dá trabalho com todos os meus clientes",
+  "habit": "seus clientes são pequenos comércios, escritórios e clínicas do interior"
+ },
+ {
+  "id": "P010",
+  "name": "Dev",
+  "age": 46,
+  "segment": "Empresa de software de gestão/ERP ou automação comercial (3 a 10 técnicos de suporte)",
+  "income": 3745000,
+  "behaviour": "Usa ferramenta grátis",
+  "behaviour_how": "Hoje usa RustDesk, AnyDesk grátis ou Assistência Rápida do Windows e só paga se for obrigado.",
+  "objection": "O antivírus do meu cliente vai bloquear e ele vai achar que é golpe",
+  "habit": "você já teve cliente que desconfiou de golpe quando pediu para instalar o AnyDesk"
+ },
+ {
+  "id": "P011",
+  "name": "Min",
+  "age": 35,
+  "segment": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+  "income": 200000,
+  "behaviour": "Fiel ao concorrente pago",
+  "behaviour_how": "Paga TeamViewer, AnyDesk ou Splashtop há anos e tem medo de trocar e dar problema.",
+  "objection": "O antivírus do meu cliente vai bloquear e ele vai achar que é golpe",
+  "habit": "você participa de grupos de técnicos e revendas no WhatsApp e no Facebook"
+ },
+ {
+  "id": "P012",
+  "name": "Sofia",
+  "age": 26,
+  "segment": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+  "income": 191000,
+  "behaviour": "Preocupado com segurança e LGPD",
+  "behaviour_how": "Pergunta sobre criptografia, registro de sessões e onde ficam os dados antes de qualquer coisa.",
+  "objection": "Não sei se a conexão é boa em internet fraca",
+  "habit": "você já teve cliente que desconfiou de golpe quando pediu para instalar o AnyDesk"
+ },
+ {
+  "id": "P013",
+  "name": "Daniel",
+  "age": 25,
+  "segment": "Provedor de internet regional ou MSP (3 a 15 técnicos)",
+  "income": 4409000,
+  "behaviour": "Quer parecer maior",
+  "behaviour_how": "Investe em marca e quer que o cliente veja o nome da empresa dele em tudo.",
+  "objection": "Não sei se a conexão é boa em internet fraca",
+  "habit": "seus clientes são pequenos comércios, escritórios e clínicas do interior"
+ },
+ {
+  "id": "P014",
+  "name": "Sara",
+  "age": 35,
+  "segment": "Equipe de suporte de empresa média de outro setor",
+  "income": 10531000,
+  "behaviour": "Quer parecer maior",
+  "behaviour_how": "Investe em marca e quer que o cliente veja o nome da empresa dele em tudo.",
+  "objection": "É um produto novo, e se a empresa sumir ou o servidor cair?",
+  "habit": "seus clientes são pequenos comércios, escritórios e clínicas do interior"
+ },
+ {
+  "id": "P015",
+  "name": "Alma",
+  "age": 28,
+  "segment": "Empresa de software de gestão/ERP ou automação comercial (3 a 10 técnicos de suporte)",
+  "income": 3808000,
+  "behaviour": "Fiel ao concorrente pago",
+  "behaviour_how": "Paga TeamViewer, AnyDesk ou Splashtop há anos e tem medo de trocar e dar problema.",
+  "objection": "Splashtop ou Zoho custam menos por técnico",
+  "habit": "você participa de grupos de técnicos e revendas no WhatsApp e no Facebook"
+ },
+ {
+  "id": "P016",
+  "name": "Pablo",
+  "age": 34,
+  "segment": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+  "income": 97000,
+  "behaviour": "Caçador de preço",
+  "behaviour_how": "Compara tabela por tabela e escolhe o mais barato que funcione.",
+  "objection": "Splashtop ou Zoho custam menos por técnico",
+  "habit": "você paga as ferramentas no cartão da empresa e precisa de nota fiscal"
+ },
+ {
+  "id": "P017",
+  "name": "Tariq",
+  "age": 41,
+  "segment": "Provedor de internet regional ou MSP (3 a 15 técnicos)",
+  "income": 4167000,
+  "behaviour": "Técnico que monta sozinho",
+  "behaviour_how": "Prefere configurar o próprio servidor e gerar o próprio cliente com marca.",
+  "objection": "O antivírus do meu cliente vai bloquear e ele vai achar que é golpe",
+  "habit": "você atende a maioria dos clientes por WhatsApp e depois pede para instalar um programa de acesso"
+ },
+ {
+  "id": "P018",
+  "name": "Hugo",
+  "age": 30,
+  "segment": "Empresa de software de gestão/ERP ou automação comercial (3 a 10 técnicos de suporte)",
+  "income": 2011000,
+  "behaviour": "Usa ferramenta grátis",
+  "behaviour_how": "Hoje usa RustDesk, AnyDesk grátis ou Assistência Rápida do Windows e só paga se for obrigado.",
+  "objection": "R$ 1.500 de implantação é caro, os outros não cobram",
+  "habit": "você participa de grupos de técnicos e revendas no WhatsApp e no Facebook"
+ },
+ {
+  "id": "P019",
+  "name": "Priya",
+  "age": 45,
+  "segment": "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+  "income": 169000,
+  "behaviour": "Usa ferramenta grátis",
+  "behaviour_how": "Hoje usa RustDesk, AnyDesk grátis ou Assistência Rápida do Windows e só paga se for obrigado.",
+  "objection": "É um produto novo, e se a empresa sumir ou o servidor cair?",
+  "habit": "você atende a maioria dos clientes por WhatsApp e depois pede para instalar um programa de acesso"
+ },
+ {
+  "id": "P020",
+  "name": "Rhys",
+  "age": 31,
+  "segment": "Empresa de software de gestão/ERP ou automação comercial (3 a 10 técnicos de suporte)",
+  "income": 2966000,
+  "behaviour": "Fiel ao concorrente pago",
+  "behaviour_how": "Paga TeamViewer, AnyDesk ou Splashtop há anos e tem medo de trocar e dar problema.",
+  "objection": "É um produto novo, e se a empresa sumir ou o servidor cair?",
+  "habit": "você já teve cliente que desconfiou de golpe quando pediu para instalar o AnyDesk"
+ }
+]
