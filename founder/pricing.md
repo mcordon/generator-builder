@@ -6,7 +6,7 @@
 
 - **Por que por técnico:** o mercado inteiro cobra assim, com computadores atendidos ilimitados (Splashtop, TSplus, Zoho, TeamViewer). Cobrar R$ 40 por computador deixava o ScSuporte de 3 a 18 vezes mais caro (empresa com 2 técnicos e 50 computadores: R$ 2.000/mês contra uma mediana de R$ 217).
 - **Contra os concorrentes:** a mediana de mercado é de R$ 71 por técnico. R$ 119 fica acima dos produtos de massa (Splashtop R$ 65, Zoho cerca de R$ 82) e bem abaixo do ScreenConnect (cerca de R$ 236). O valor a mais só se justifica pelo serviço que os outros não fazem: **você monta e assina o programa com a marca do cliente**.
-- **A margem (ferramenta do CFO):** R$ 115,43 de contribuição por técnico, equilíbrio em 6 técnicos, 77% de margem com 24 técnicos.
+- **A margem (ferramenta do CFO):** R$ 115,43 de contribuição por técnico, equilíbrio em 6 técnicos, 76% de margem com 24 técnicos.
 - **A implantação de R$ 1.500** paga o seu trabalho de montar a marca. Os concorrentes de massa não cobram implantação, por isso ela precisa entregar algo visível (ver o plano Marca Completa).
 
 ## 2. A escada de planos

@@ -4,11 +4,11 @@
 >
 > **Como ler as tabelas:** $ = R$; "a day" = **técnicos ativos pagando naquele mês**. O ritmo (2 técnicos novos por mês, chegando a 24) é **ilustrativo**: equivale a 1 empresa nova de 2 técnicos por mês.
 
-- **A margem:** cada técnico deixa **R$ 115,43** por mês, depois da taxa de cobrança estimada em 3%. Com 24 técnicos, a margem é de **77%**.
+- **A margem:** cada técnico deixa **R$ 115,43** por mês, depois da taxa de cobrança estimada em 3%. Com 24 técnicos, a margem é de **76%**.
 - **O ponto de equilíbrio:** **6 técnicos** pagam o servidor de R$ 600 (são 3 empresas de 2 técnicos).
-- **Ano 1 (exemplo):** **R$ 10.947** de lucro com as mensalidades, mais **R$ 18.000** de implantação (12 empresas × R$ 1.500), cerca de **R$ 29.000** antes de impostos e sem contar o seu tempo.
+- **Ano 1 (exemplo):** **R$ 10.807** de lucro com as mensalidades, mais **R$ 18.000** de implantação (12 empresas × R$ 1.500), cerca de **R$ 29.000** antes de impostos e sem contar o seu tempo.
 - **O número a vigiar: quantas empresas você fecha por mês.** No primeiro ano, a implantação pesa mais que as mensalidades. Com o dobro de empresas, o lucro das mensalidades sobe para cerca de R$ 19.700 a R$ 89 por técnico.
-- **Comparando preços** (mesmo ritmo): a R$ 69, o lucro do ano 1 é de R$ 3.147; a R$ 89, de R$ 6.267; a R$ 119, de R$ 10.947.
+- **Comparando preços** (mesmo ritmo): a R$ 69, o lucro do ano 1 é de R$ 3.147; a R$ 89, de R$ 6.267; a R$ 119, de R$ 10.807 (custo de cobrança de R$ 2,67 nos dois primeiros e R$ 3,57 neste).
 - **O que não está incluído:** seu tempo, suporte, certificado de assinatura de código, contador/CNPJ, impostos (cerca de 6% no Simples, a confirmar) e o custo para conquistar cada empresa.
 
 *Isto não é aconselhamento financeiro, fiscal ou jurídico. Confira com um contador.*
