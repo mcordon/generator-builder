@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "A oferta fala de marca, logo e nota fiscal, mas não diz nada sobre criptografia, gravação das sessões ou quem tem acesso aos dados dos meus clientes. Não vou instalar programa de empresa nova no computador de cliente meu sem saber disso.",
-  "objection": "É um produto novo: se a empresa sumir ou o servidor cair, eu fico com dezenas de clientes com um programa com a minha marca que não funciona, e quem leva a culpa sou eu. E \"servidor no Brasil\" sozinho não me diz nada sobre segurança e LGPD.",
-  "would_change_my_mind": "Uma página técnica clara de segurança (criptografia ponta a ponta, log e gravação de sessões, onde e por quanto tempo os dados ficam, contrato com cláusula LGPD) mais um período de teste grátis de 30 dias para eu ver a estabilidade antes de pagar implantação.",
-  "price_too_cheap": 30,
-  "price_cheap": 59,
+  "reason": "Gostei que tem página de segurança, contrato LGPD e servidor no Brasil, mas não coloco um programa novo na máquina dos meus clientes sem antes ler a parte técnica e testar. No primeiro mês eu no máximo faria o teste grátis em um ou dois clientes de confiança, sem pagar nada.",
+  "objection": "É uma empresa nova acompanhada pelo próprio fundador. Se ela sumir ou o servidor cair, quem fica mal com o cliente sou eu, e não sei se essa promessa de me entregar o servidor funciona na prática.",
+  "would_change_my_mind": "Ver a página técnica com detalhes reais de criptografia e registro de sessões, e a garantia de entrega do servidor escrita no contrato, depois de 30 dias de teste sem queda.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
   "price_expensive": 99,
-  "price_too_expensive": 149
+  "price_too_expensive": 150
 }

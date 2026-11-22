@@ -1,4 +1,4 @@
-> **Nota:** valores em R$ por técnico por mês ($ = R$). Na tabela "By income" de `panel/results.md`, os valores são o faturamento anual da empresa, não renda pessoal.
+> **Nota:** valores em R$ por técnico por mês ($ = R$). Reteste com a oferta v2 (R$ 69). O resultado da v1 está em `panel-v1/`.
 
 # Price sensitivity
 
@@ -6,13 +6,13 @@
 
 | point | price | what it means |
 | --- | ---: | --- |
-| PMC | $34.91 | below this, too many think it is too cheap to be good |
-| OPP | $40.08 | as many say too cheap as too expensive: the least resistance |
-| IPP | $68.87 | as many call it a bargain as call it expensive |
-| PME | $109.64 | above this, too many say it is too expensive to buy |
+| PMC | $24.84 | below this, too many think it is too cheap to be good |
+| OPP | $25.12 | as many say too cheap as too expensive: the least resistance |
+| IPP | $48.85 | as many call it a bargain as call it expensive |
+| PME | $90.05 | above this, too many say it is too expensive to buy |
 
-**Acceptable range: $34.91 to $109.64.**
+**Acceptable range: $24.84 to $90.05.**
 
-Median answers: too cheap $25.00, a bargain $50.00, getting expensive $89.00, too expensive $130.00.
+Median answers: too cheap $15.00, a bargain $45.00, getting expensive $80.00, too expensive $120.00.
 
-Your current price, $119.00, is **above** the acceptable range.
+Your current price, $69.00, is **inside** the acceptable range.

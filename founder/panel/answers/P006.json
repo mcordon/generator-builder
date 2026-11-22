@@ -1,13 +1,13 @@
 {
   "id": "P006",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Ter o programa com a minha marca é exatamente o que eu quero, mas não vou colocar o nome da minha empresa no computador de todos os meus clientes em cima de um produto que acabou de nascer. Se o servidor cair, quem fica mal sou eu, não eles.",
-  "objection": "É um produto novo: se a empresa sumir ou o servidor cair, meus clientes ficam sem suporte e eu perco a implantação e ainda tenho que trocar o programa em todas as máquinas.",
-  "would_change_my_mind": "Um teste grátis de 30 dias com a minha marca, rodando com alguns clientes reais, mais um compromisso por escrito de disponibilidade (SLA) e de entrega do código/instalador se a empresa encerrar.",
-  "price_too_cheap": 40,
-  "price_cheap": 79,
-  "price_expensive": 149,
-  "price_too_expensive": 199
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Ver o nome da minha empresa no instalador que o cliente baixa é exatamente o que eu quero, e R$ 69 por técnico com nota fiscal cabe fácil. Faço o teste de 30 dias ao lado da ferramenta atual e, se aguentar o tranco com cliente real, assino para a equipe toda.",
+  "objection": "É empresa nova, praticamente um fundador sozinho. Se o servidor cair numa segunda de manhã com cliente parado, quem fica mal sou eu, porque é a minha marca que está na tela. Essa história de me entregar o servidor se fecharem é bonita no papel, mas quero ver isso no contrato.",
+  "would_change_my_mind": "Se no teste a conexão falhar ou ficar lenta com cliente de verdade, ou se o suporte demorar a responder, eu volto para a ferramenta que já uso e não assino.",
+  "price_too_cheap": 25,
+  "price_cheap": 49,
+  "price_expensive": 119,
+  "price_too_expensive": 179
 }

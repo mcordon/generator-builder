@@ -2,12 +2,12 @@
   "id": "P012",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "A marca própria resolve o cliente achando que é golpe, e servidor no Brasil é um bom começo, mas a oferta não diz nada sobre criptografia, registro de sessões ou como fica a LGPD. Também não sei como funciona em internet fraca. Sem isso eu não coloco meu nome em cima.",
-  "objection": "Não sei qual criptografia usam, se as sessões ficam gravadas e quem tem acesso a esses dados, e se a conexão aguenta a internet ruim dos meus clientes. Se vazar algo ou travar no meio do atendimento, quem perde a confiança sou eu.",
-  "would_change_my_mind": "Uma página técnica com a criptografia ponta a ponta, o registro de sessões auditável, um contrato de tratamento de dados para a LGPD e um teste grátis para eu ver a conexão em internet fraca de verdade.",
-  "price_too_cheap": 30,
-  "price_cheap": 69,
-  "price_expensive": 119,
-  "price_too_expensive": 169
+  "reason_code": "quality",
+  "reason": "A marca própria resolve meu problema de cliente achando que é golpe, e a página de segurança e o contrato LGPD me chamam atenção, mas eu não pago por ferramenta de acesso remoto de empresa que não conheço sem ver funcionando em internet ruim. No máximo eu faço o teste grátis ao lado do AnyDesk, e no primeiro mês não sai dinheiro nenhum.",
+  "objection": "Não sei se a conexão aguenta internet fraca de cliente no interior ou 4G ruim, e a oferta não fala nada disso. Também quero ler a criptografia e o registro de sessões em detalhe antes de colocar isso na máquina de cliente.",
+  "would_change_my_mind": "Ver no teste que a conexão fica estável em internet lenta com clientes reais, e a página técnica mostrar criptografia de ponta a ponta e log de sessão que eu consiga exportar.",
+  "price_too_cheap": 15,
+  "price_cheap": 45,
+  "price_expensive": 99,
+  "price_too_expensive": 150
 }

@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Já uso RustDesk e AnyDesk grátis e funciona: mando o link pelo WhatsApp, o cliente instala e pronto. Pagar R$ 178 ou mais por mês, fora implantação, só para trocar o nome no programa não se paga para mim.",
-  "objection": "Cliente meu não liga para qual logo aparece no programa de acesso, ele quer o problema resolvido. Não vejo por que pagar por algo que a ferramenta grátis já faz.",
-  "would_change_my_mind": "Se a ferramenta grátis parar de funcionar ou começar a bloquear uso comercial e me obrigar a pagar de qualquer jeito.",
+  "reason": "Já uso RustDesk e AnyDesk grátis e meus clientes nunca reclamaram do nome de outra empresa no programa. Pagar R$ 69 por técnico só pra ter meu logo não resolve nenhum problema que eu tenho hoje.",
+  "objection": "Marca própria é bonito, mas não me traz cliente novo nem atende mais rápido. Ferramenta grátis funciona, então por que pagar todo mês?",
+  "would_change_my_mind": "Se o AnyDesk grátis começar a bloquear meu uso como comercial ou um cliente grande exigir LGPD e registro de sessões por contrato, aí eu teria que pagar e testaria.",
   "price_too_cheap": 10,
   "price_cheap": 25,
   "price_expensive": 50,
-  "price_too_expensive": 89
+  "price_too_expensive": 80
 }

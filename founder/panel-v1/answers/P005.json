@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu mesmo monto meu servidor e gero meu cliente com a minha marca, então pagar R$ 89 ou R$ 119 por técnico todo mês por algo que já sei fazer não fecha a conta. E a oferta não diz nada sobre como a conexão se comporta em internet fraca, que é onde meus clientes estão.",
+  "objection": "Não sei se a conexão é boa em internet fraca, e não vejo motivo para depender do servidor de outra empresa se eu controlo o meu.",
+  "would_change_my_mind": "Um teste grátis em que eu visse a conexão funcionando bem na internet ruim dos meus clientes, com uma opção de rodar no meu próprio servidor.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 70,
+  "price_too_expensive": 110
+}

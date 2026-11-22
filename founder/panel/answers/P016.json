@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "price",
-  "reason": "Sou eu e mais um técnico. R$ 89 por técnico já fica acima do que pago no Splashtop ou no Zoho, e o plano com marca me obriga a pagar dois técnicos mais R$ 1.500 (ou R$ 750) de implantação. Programa com o meu logo é bonito, mas meu cliente não deixa de me contratar por ver o nome de outra empresa.",
-  "objection": "Pagar mais caro por técnico do que nas ferramentas que já conheço, só para trocar o logo, sem saber se a conexão é tão estável quanto a do Splashtop.",
-  "would_change_my_mind": "O Plano Técnico custar R$ 49 ou menos por técnico, com teste grátis para eu comparar a estabilidade com o que já uso.",
-  "price_too_cheap": 20,
-  "price_cheap": 45,
-  "price_expensive": 75,
-  "price_too_expensive": 100
+  "reason": "Sou eu e mais um técnico, não preciso da minha marca no instalador, preciso que funcione e seja barato. R$ 69 por técnico fica acima do que eu pago hoje no Zoho ou Splashtop, então eu até poderia pegar o teste grátis, mas no fim do mês ia continuar com o que já tenho.",
+  "objection": "Pagar mais caro só pra ter meu logo no programa, numa empresa pequena que eu nunca ouvi falar e que limita 10 testes por mês, não fecha a conta pra mim.",
+  "would_change_my_mind": "Se ficasse em uns R$ 39 por técnico, abaixo do Zoho, com a nota fiscal brasileira e PIX, eu trocava.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 80
 }

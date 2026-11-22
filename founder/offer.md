@@ -1,4 +1,4 @@
-# Oferta: ScSuporte WL (rascunho, aguardando confirmação do fundador)
+# Oferta: ScSuporte WL (v2)
 
 Método: a lente Oferta (`founder-board/lenses.md`), um resumo de um framework publicado. Não são palavras do autor.
 
@@ -40,7 +40,7 @@ Método: a lente Oferta (`founder-board/lenses.md`), um resumo de um framework p
 | E | **Página de segurança + contrato LGPD (DPA)**: criptografia, registro de sessões, onde ficam os dados | 8 | 4 | 1 | ✅ *se o produto tiver esses recursos* |
 | F | **Garantia de disponibilidade de 99,5% por escrito**: um mês grátis se o mês ficar abaixo | 2, 17, 19 | 4 | 1 (um crédito de 1 mês por ano custa cerca de 8% da receita do ano no pior caso) | ✅ *se o servidor aguentar* |
 | G | **Plano de saída**: se o ScSuporte encerrar, o cliente recebe o servidor para instalar sozinho, e o programa continua funcionando | 2, 18 | 5 | 1 (só custa se a empresa fechar) | ✅ *a confirmar* |
-| H | **Opção "Servidor Próprio"** para quem monta sozinho | 9 | 3 | 2 | ⚠️ opcional |
+| H | Opção "Servidor Próprio" para quem monta sozinho | 9 | 3 | 2 | ❌ o fundador preferiu não oferecer |
 | I | Cobrança simples: PIX, boleto ou cartão, NF, cancelamento a qualquer momento | 15 | 3 | 1 | ✅ (já confirmado) |
 | J | Suporte em português por WhatsApp, com horário definido | 16 | 3 | 2 (seu tempo) | ✅ |
 | — | Prometer "funciona em qualquer internet" | 12 | — | — | ❌ não comprovado; o teste grátis prova isso |
@@ -76,6 +76,20 @@ Método: a lente Oferta (`founder-board/lenses.md`), um resumo de um framework p
 | Tempo até o resultado | 4 | 7 | Instalador pronto no teste e kit de WhatsApp |
 | Esforço e sacrifício | 3 | 7 | Sem cartão, sem implantação na entrada, migração assistida, preço dentro da faixa |
 
-## 6. Reteste
+## 6. Reteste (mesmos 20 compradores, semente 218188)
 
-*Pendente: aguardando o fundador confirmar o que pode entregar (E, F, G, H).*
+Confirmado pelo fundador: teste com a marca (sim), criptografia e registro de sessões (**ainda a criar: precisam existir antes de vender**), 99,5% de disponibilidade (sim), plano de saída (sim). Servidor Próprio: não.
+
+| | v1 (R$ 119 + R$ 1.500) | v2 (R$ 69 + teste 30 dias) |
+|---|---:|---:|
+| Compram | **0 de 20 (0%)** | **3 de 20 (15%)** |
+| Não por hábito | 7 | 8 |
+| Não por confiança | 9 | **4** |
+| Não por preço | 2 | 3 |
+| Faixa de preço aceitável | R$ 35 a R$ 110 | R$ 25 a R$ 90 |
+
+- **O que caiu:** a objeção de **confiança caiu de 9 para 4**. O teste com a marca, o SLA e o plano de saída funcionaram.
+- **Quem compra:** os 3 que **querem parecer maiores** (3 de 3), em provedores/MSPs e empresas maiores. Técnicos autônomos e empresas de ERP: 0.
+- **O que não mudou:** **hábito** (8). Quem usa grátis ou monta sozinho não vê problema a resolver. Nenhuma oferta resolve isso: é o **mercado errado** para o ScSuporte.
+- **Novas objeções:** "assinatura não impede o SmartScreen de alertar um programa novo"; "a oferta não fala de internet fraca"; "receber o servidor não me ajuda se eu não sei mantê-lo".
+- **Atenção:** os 3 "compram" depois do teste grátis. No mês 1 ninguém paga. A taxa real depende de quantos testes convertem.

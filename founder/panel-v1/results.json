@@ -1,0 +1,169 @@
+{
+ "business": "ScSuporte WL (software de suporte remoto com a marca do cliente)",
+ "seed": 218188,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Provedor de internet regional ou MSP (3 a 15 técnicos)",
+   4,
+   0.0
+  ],
+  [
+   "Técnico autônomo ou microempresa de TI (1 a 2 técnicos)",
+   8,
+   0.0
+  ],
+  [
+   "Equipe de suporte de empresa média de outro setor",
+   2,
+   0.0
+  ],
+  [
+   "Empresa de software de gestão/ERP ou automação comercial (3 a 10 técnicos de suporte)",
+   6,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Usa ferramenta grátis",
+   5,
+   0.0
+  ],
+  [
+   "Fiel ao concorrente pago",
+   4,
+   0.0
+  ],
+  [
+   "Preocupado com segurança e LGPD",
+   2,
+   0.0
+  ],
+  [
+   "Técnico que monta sozinho",
+   2,
+   0.0
+  ],
+  [
+   "Quer parecer maior",
+   3,
+   0.0
+  ],
+  [
+   "Caçador de preço",
+   3,
+   0.0
+  ],
+  [
+   "Decide rápido por indicação",
+   1,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$224,000 to $3,026,000",
+   7,
+   0.0
+  ],
+  [
+   "$3,026,000 and up",
+   7,
+   0.0
+  ],
+  [
+   "under $224,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   9,
+   [
+    "Pago o AnyDesk há anos e ele funciona nos meus clientes do interior. Trocar por um programa que eu nunca vi funcionar em internet ruim, só para ter meu logo, é arriscar meu atendimento e minha reputação.",
+    "A oferta fala de marca, logo e nota fiscal, mas não diz nada sobre criptografia, gravação das sessões ou quem tem acesso aos dados dos meus clientes. Não vou instalar programa de empresa nova no computador de cliente meu sem saber disso."
+   ],
+   [
+    "P002",
+    "P004"
+   ]
+  ],
+  [
+   "habit",
+   7,
+   [
+    "Já uso RustDesk e AnyDesk grátis e funciona: mando o link pelo WhatsApp, o cliente instala e pronto. Pagar R$ 178 ou mais por mês, fora implantação, só para trocar o nome no programa não se paga para mim.",
+    "Eu mesmo monto meu servidor e gero meu cliente com a minha marca, então pagar R$ 89 ou R$ 119 por técnico todo mês por algo que já sei fazer não fecha a conta. E a oferta não diz nada sobre como a conexão se comporta em internet fraca, que é onde meus clientes estão."
+   ],
+   [
+    "P001",
+    "P005"
+   ]
+  ],
+  [
+   "price",
+   2,
+   [
+    "Sou eu e mais um técnico. R$ 89 por técnico já fica acima do que pago no Splashtop ou no Zoho, e o plano com marca me obriga a pagar dois técnicos mais R$ 1.500 (ou R$ 750) de implantação. Programa com o meu logo é bonito, mas meu cliente não deixa de me contratar por ver o nome de outra empresa.",
+    "Hoje eu atendo meus clientes de ERP com RustDesk e AnyDesk grátis e funciona. Pagar R$ 119 por técnico mais R$ 1.500 de implantação só pra ter meu logo no programa não se paga pra mim, ninguém está me obrigando a trocar."
+   ],
+   [
+    "P016",
+    "P018"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "A gente é suporte interno de uma empresa de outro setor, não vendo suporte para cliente, então programa com a minha marca não muda nada para mim. O RustDesk e a Assistência Rápida já resolvem e eu só pago se a empresa me obrigar."
+   ],
+   [
+    "P003"
+   ]
+  ],
+  [
+   "quality",
+   1,
+   [
+    "Ter o programa com o nome da minha empresa é exatamente o que eu quero, mas meus clientes são comércio e clínica do interior com internet ruim. Não vou pagar R$ 750 de implantação e trocar a ferramenta sem antes ver isso funcionando numa conexão fraca."
+   ],
+   [
+    "P013"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Se a ferramenta grátis parar de funcionar ou começar a bloquear uso comercial e me obrigar a pagar de qualquer jeito.",
+  "Um teste grátis de 30 dias no Plano Técnico, sem cartão, para eu rodar nos meus clientes com internet ruim lado a lado com o AnyDesk e ver que não perde conexão.",
+  "Se a TI ou a segurança da empresa proibisse o AnyDesk e o RustDesk grátis e exigisse uma ferramenta paga com servidor no Brasil e nota fiscal, eu olharia o Plano Técnico.",
+  "Uma página técnica clara de segurança (criptografia ponta a ponta, log e gravação de sessões, onde e por quanto tempo os dados ficam, contrato com cláusula LGPD) mais um período de teste grátis de 30 dias para eu ver a estabilidade antes de pagar implantação.",
+  "Um teste grátis em que eu visse a conexão funcionando bem na internet ruim dos meus clientes, com uma opção de rodar no meu próprio servidor.",
+  "Um teste grátis de 30 dias com a minha marca, rodando com alguns clientes reais, mais um compromisso por escrito de disponibilidade (SLA) e de entrega do código/instalador se a empresa encerrar.",
+  "Um teste grátis de 30 dias no Plano Técnico, com SLA de disponibilidade por escrito e um plano de saída garantido (por exemplo, o código ou o servidor entregue se a empresa encerrar), mais duas ou três empresas como a minha usando há meses que eu possa ligar e perguntar.",
+  "Um colega técnico de confiança me dizer que usa há alguns meses e que o instalador não é bloqueado pelos antivírus dos clientes dele; aí eu testaria o Plano Técnico.",
+  "Um teste grátis de 30 dias com o Plano Técnico e ajuda para migrar os clientes sem eu ter que ir em cada um, com preço abaixo do que pago hoje.",
+  "Um teste grátis de 30 dias em que eu visse o instalador com a minha marca passar limpo nos antivírus dos meus clientes sem nenhum alerta.",
+  "Um teste grátis de 30 dias sem implantação, rodando nos meus clientes reais, e ver no grupo de técnicos outros colegas usando sem bloqueio de antivírus.",
+  "Uma página técnica com a criptografia ponta a ponta, o registro de sessões auditável, um contrato de tratamento de dados para a LGPD e um teste grátis para eu ver a conexão em internet fraca de verdade.",
+  "Um teste grátis de uma ou duas semanas no Plano Técnico, atendendo meus próprios clientes com internet ruim, antes de pagar a implantação.",
+  "Um período de teste de 30 dias com a minha marca, sem pagar implantação antes, mais um compromisso por escrito de disponibilidade e de me entregar tudo se o serviço for descontinuado.",
+  "Um teste grátis de 30 dias rodando em paralelo com o que eu já uso, mais indicação de outras revendas nos grupos que já usam e confirmam que é estável.",
+  "O Plano Técnico custar R$ 49 ou menos por técnico, com teste grátis para eu comparar a estabilidade com o que já uso.",
+  "Um teste grátis em que eu veja o instalador assinado passar no Defender e nos antivírus dos meus clientes sem alerta, com opção de rodar no meu próprio servidor.",
+  "Se o AnyDesk grátis começar a bloquear meu uso comercial ou meus clientes começarem a reclamar e exigir programa com a nossa marca; aí eu olharia o Plano Técnico, sem implantação, com teste grátis.",
+  "Se o AnyDesk grátis me bloquear por uso comercial e eu for obrigado a pagar alguma coisa, aí eu testaria o Plano Técnico, desde que tivesse um teste grátis e prova de que a empresa tem tempo de mercado e servidor estável.",
+  "Um teste grátis de 30 dias em paralelo ao AnyDesk, com SLA de disponibilidade por escrito e referências de outras empresas de software que já usam há meses sem queda."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}

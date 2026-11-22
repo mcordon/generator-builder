@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nunca ouvi falar desse ScSuporte e nenhum colega meu usa; eu só troco a ferramenta que meus clientes instalam quando alguém do setor me garante que funciona. A marca própria é legal, mas não vou arriscar com meus clientes por um anúncio que vi passando.",
+  "objection": "Programa novo, com o meu nome, que ninguém conhece: o antivírus do cliente vai barrar ou ele vai achar que é golpe quando eu mandar o link pelo WhatsApp. Assinado digitalmente é o que todos dizem, quero ver passar no Windows Defender e nos antivírus que meus clientes usam.",
+  "would_change_my_mind": "Um colega técnico de confiança me dizer que usa há alguns meses e que o instalador não é bloqueado pelos antivírus dos clientes dele; aí eu testaria o Plano Técnico.",
+  "price_too_cheap": 25,
+  "price_cheap": 49,
+  "price_expensive": 89,
+  "price_too_expensive": 130
+}

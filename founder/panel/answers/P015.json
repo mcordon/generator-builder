@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "A gente usa a mesma ferramenta paga há anos e funciona; trocar todos os clientes para um programa novo de uma empresa que eu não conheço é risco demais só pra ter o meu logo. E Splashtop ou Zoho saem mais barato por técnico.",
-  "objection": "Medo de migrar a base inteira de clientes e o programa novo dar problema de conexão ou estabilidade no meio de um atendimento, sem eu saber se essa empresa vai estar aí daqui a dois anos.",
-  "would_change_my_mind": "Um teste grátis de 30 dias rodando em paralelo com o que eu já uso, mais indicação de outras revendas nos grupos que já usam e confirmam que é estável.",
-  "price_too_cheap": 25,
-  "price_cheap": 50,
-  "price_expensive": 90,
-  "price_too_expensive": 130
+  "reason": "A gente usa a mesma ferramenta paga há anos e funciona; trocar o programa instalado em todos os clientes é dor de cabeça e risco de chamado parado. Talvez eu até pegasse o teste grátis por curiosidade, mas pagar e migrar este mês, não.",
+  "objection": "Medo de trocar e dar problema: uma empresa pequena e nova, com o fundador acompanhando pessoalmente, segura o tranco se cair no meio de um atendimento? E o Splashtop e o Zoho saem mais barato por técnico.",
+  "would_change_my_mind": "Ver outras revendas ou empresas de software dos grupos de WhatsApp que eu participo usando há meses sem problema, e o teste com meus clientes reais rodando liso, sem nenhuma queda.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 80,
+  "price_too_expensive": 120
 }

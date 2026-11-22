@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "A gente é suporte interno de uma empresa de outro setor, não vendo suporte para cliente, então programa com a minha marca não muda nada para mim. O RustDesk e a Assistência Rápida já resolvem e eu só pago se a empresa me obrigar.",
+  "objection": "Por que pagar R$ 119 por técnico mais R$ 1.500 de implantação só para trocar o logo, se a ferramenta grátis já acessa a máquina e o Splashtop ou o Zoho saem mais barato por técnico?",
+  "would_change_my_mind": "Se a TI ou a segurança da empresa proibisse o AnyDesk e o RustDesk grátis e exigisse uma ferramenta paga com servidor no Brasil e nota fiscal, eu olharia o Plano Técnico.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 60,
+  "price_too_expensive": 89
+}

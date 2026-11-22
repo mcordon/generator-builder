@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Adoro a ideia de o cliente instalar um programa com o nome da minha empresa, é exatamente o que eu quero. Mas é um produto novo, sem teste grátis, e eu não vou colocar meu nome na tela de clínica e escritório antes de ver se aguenta.",
+  "objection": "Se essa empresa sumir ou o servidor cair, quem fica mal com o cliente sou eu, porque é a minha marca que está no programa. E ainda pago R$ 1.500 de implantação sem saber se vai funcionar.",
+  "would_change_my_mind": "Um período de teste de 30 dias com a minha marca, sem pagar implantação antes, mais um compromisso por escrito de disponibilidade e de me entregar tudo se o serviço for descontinuado.",
+  "price_too_cheap": 30,
+  "price_cheap": 70,
+  "price_expensive": 119,
+  "price_too_expensive": 180
+}

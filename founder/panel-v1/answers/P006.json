@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ter o programa com a minha marca é exatamente o que eu quero, mas não vou colocar o nome da minha empresa no computador de todos os meus clientes em cima de um produto que acabou de nascer. Se o servidor cair, quem fica mal sou eu, não eles.",
+  "objection": "É um produto novo: se a empresa sumir ou o servidor cair, meus clientes ficam sem suporte e eu perco a implantação e ainda tenho que trocar o programa em todas as máquinas.",
+  "would_change_my_mind": "Um teste grátis de 30 dias com a minha marca, rodando com alguns clientes reais, mais um compromisso por escrito de disponibilidade (SLA) e de entrega do código/instalador se a empresa encerrar.",
+  "price_too_cheap": 40,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 199
+}

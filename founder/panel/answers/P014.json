@@ -1,13 +1,13 @@
 {
   "id": "P014",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Adoro a ideia de o cliente instalar um programa com o nome da minha empresa, é exatamente o que eu quero. Mas é um produto novo, sem teste grátis, e eu não vou colocar meu nome na tela de clínica e escritório antes de ver se aguenta.",
-  "objection": "Se essa empresa sumir ou o servidor cair, quem fica mal com o cliente sou eu, porque é a minha marca que está no programa. E ainda pago R$ 1.500 de implantação sem saber se vai funcionar.",
-  "would_change_my_mind": "Um período de teste de 30 dias com a minha marca, sem pagar implantação antes, mais um compromisso por escrito de disponibilidade e de me entregar tudo se o serviço for descontinuado.",
-  "price_too_cheap": 30,
-  "price_cheap": 70,
-  "price_expensive": 119,
-  "price_too_expensive": 180
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "values",
+  "reason": "Ter o nome e o logo da minha empresa no programa que o cliente instala é exatamente o que eu quero, faz a gente parecer maior para as clínicas e escritórios. Como o teste é grátis, sem cartão, e roda ao lado do que já uso, eu testo com alguns clientes e, se aguentar o mês, assino.",
+  "objection": "É um produto novo de um fundador só. Se a empresa sumir ou o servidor cair no meio de um atendimento, quem fica mal com o cliente sou eu, com a minha marca na tela.",
+  "would_change_my_mind": "Se o servidor cair durante o teste ou o suporte demorar para responder, eu desisto e fico com a ferramenta que já uso.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 99,
+  "price_too_expensive": 150
 }

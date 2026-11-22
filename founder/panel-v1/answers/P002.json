@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Pago o AnyDesk há anos e ele funciona nos meus clientes do interior. Trocar por um programa que eu nunca vi funcionar em internet ruim, só para ter meu logo, é arriscar meu atendimento e minha reputação.",
+  "objection": "Não sei se a conexão aguenta internet fraca de clínica e comércio do interior. Se travar no meio do atendimento, quem perde o cliente sou eu, não vocês.",
+  "would_change_my_mind": "Um teste grátis de 30 dias no Plano Técnico, sem cartão, para eu rodar nos meus clientes com internet ruim lado a lado com o AnyDesk e ver que não perde conexão.",
+  "price_too_cheap": 25,
+  "price_cheap": 59,
+  "price_expensive": 99,
+  "price_too_expensive": 149
+}

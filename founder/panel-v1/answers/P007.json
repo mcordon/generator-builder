@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "O problema do cliente desconfiado do AnyDesk é real, mas não vou colocar o suporte de todos os meus clientes num produto que acabou de nascer. Se o servidor cair numa segunda de manhã, eu paro, e ainda tenho que explicar para o cliente por que o programa com a minha marca não conecta.",
+  "reason_code": "trust",
+  "objection": "É empresa nova: e se ela sumir ou o servidor cair? Meu nome fica no programa instalado nos clientes e eu fico com o prejuízo. Além disso, R$ 89 por técnico ainda é mais do que algumas alternativas que eu já comparei, e tem opção open source que eu mesmo hospedo.",
+  "would_change_my_mind": "Um teste grátis de 30 dias no Plano Técnico, com SLA de disponibilidade por escrito e um plano de saída garantido (por exemplo, o código ou o servidor entregue se a empresa encerrar), mais duas ou três empresas como a minha usando há meses que eu possa ligar e perguntar.",
+  "price_too_cheap": 25,
+  "price_cheap": 49,
+  "price_expensive": 89,
+  "price_too_expensive": 130
+}

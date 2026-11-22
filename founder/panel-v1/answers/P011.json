@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Uso o AnyDesk há anos, funciona e meus clientes já conhecem. Trocar por um programa novo que ninguém nunca viu, pagando R$ 1.500 de implantação, é arriscar parar o atendimento por causa de uma marca bonita.",
+  "objection": "O antivírus do meu cliente vai bloquear um executável desconhecido e ele vai achar que é golpe. Com AnyDesk pelo menos o nome é conhecido; com o meu logo num programa novo, a culpa cai em mim.",
+  "would_change_my_mind": "Um teste grátis de 30 dias sem implantação, rodando nos meus clientes reais, e ver no grupo de técnicos outros colegas usando sem bloqueio de antivírus.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 110,
+  "price_too_expensive": 160
+}

@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Eu atendo tudo pelo WhatsApp e mando o cliente baixar o RustDesk ou o AnyDesk grátis, e isso resolve. Pagar todo mês só para aparecer meu logo não muda o meu faturamento, e eu só pago ferramenta quando sou obrigado.",
-  "objection": "É um produto novo. Se a empresa sumir ou o servidor cair, fico com um monte de cliente com um programa com a minha marca que não conecta, e quem leva a culpa sou eu.",
-  "would_change_my_mind": "Se o AnyDesk grátis me bloquear por uso comercial e eu for obrigado a pagar alguma coisa, aí eu testaria o Plano Técnico, desde que tivesse um teste grátis e prova de que a empresa tem tempo de mercado e servidor estável.",
-  "price_too_cheap": 15,
-  "price_cheap": 35,
-  "price_expensive": 60,
-  "price_too_expensive": 90
+  "reason": "O RustDesk e o AnyDesk grátis já resolvem: mando o link pelo WhatsApp, o cliente instala e pronto. Ter meu logo no instalador é bonito, mas não é algo que me obrigue a pagar R$ 69 por mês.",
+  "objection": "É uma empresa nova com o fundador acompanhando cada teste. A promessa de me entregar o servidor se fechar é boa no papel, mas eu não quero virar administrador de servidor se isso acontecer, e já tenho RustDesk de graça que posso hospedar se quiser.",
+  "would_change_my_mind": "Se a ferramenta grátis que uso começar a bloquear uso comercial ou um cliente grande exigir instalador com a minha marca e contrato de LGPD, aí eu testaria e provavelmente pagaria.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
 }
