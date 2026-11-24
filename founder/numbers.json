@@ -1,0 +1,17 @@
+{
+  "business": "Licenças (despachante digital de AET)",
+  "unit": "licença (AET) emitida",
+  "price": 60.00,
+  "variable": [
+    {"label": "Taxa de cobrança Pix/boleto/cartão (ESTIMATIVA ~3%)", "cost": 1.80}
+  ],
+  "fixed_monthly": [
+    {"label": "Servidor/hospedagem do robô (ESTIMATIVA, não informado)", "cost": 300}
+  ],
+  "startup": [
+    {"label": "Desenvolvimento do software (bancado pela empresa do fundador; valor não informado)", "cost": 0}
+  ],
+  "days_per_month": 1,
+  "plan_per_day": 125,
+  "ramp_per_day": [15, 25, 35, 45, 55, 65, 75, 85, 95, 105, 115, 125]
+}
