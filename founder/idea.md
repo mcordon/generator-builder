@@ -1,4 +1,4 @@
-# Despachante digital de AET (nome provisório: a definir)
+# Licenças (despachante digital de AET)
 
 - What it is: empresa que emite, para transportadoras, a AET (Autorização Especial de Trânsito) federal (DNIT) e as AETs estaduais (DER de cada estado), usando um software próprio que preenche os pedidos automaticamente nos sistemas dos órgãos.
 - Who it is for: transportadoras com vários caminhões e carretas que precisam de AET (federal e de cada estado por onde passam).
