@@ -1,0 +1,37 @@
+{
+  "business": "Com Que Roupa (app diário de looks para não repetir roupa na frente das mesmas pessoas)",
+  "target": "Mulher brasileira de 20 a 35 anos, com vida social ativa (vários eventos por mês com os mesmos grupos de amigos, colegas ou família), que posta fotos nas redes",
+  "where": "Brasil, capitais e cidades grandes, celular",
+  "age": [20, 35],
+  "segments": [
+    {"name": "Universitária ou recém-formada, muitas festas e encontros", "share": 0.35, "income": [18000, 48000]},
+    {"name": "Profissional jovem, eventos de trabalho e vida social", "share": 0.35, "income": [48000, 120000]},
+    {"name": "Fase de casamentos e chás (convidada, madrinha, noiva)", "share": 0.20, "income": [36000, 150000]},
+    {"name": "Criadora de conteúdo / influenciadora pequena", "share": 0.10, "income": [24000, 180000]}
+  ],
+  "behaviours": [
+    {"name": "Se preocupa em não repetir look", "share": 0.20, "how": "Já evitou usar uma roupa porque as mesmas pessoas tinham visto, e confere fotos antigas antes de sair."},
+    {"name": "Não liga para repetir", "share": 0.20, "how": "Repete roupa sem culpa e acha que ninguém repara."},
+    {"name": "Testa todo app novo e larga logo", "share": 0.15, "how": "Baixa apps da moda pelo TikTok, usa uma semana e esquece."},
+    {"name": "Organizada", "share": 0.10, "how": "Gosta de planilhas, listas e já tentou organizar o armário por app."},
+    {"name": "Compradora por impulso", "share": 0.15, "how": "Compra peça nova para cada evento importante, muitas vezes pela Shein, Shopee ou lojas de shopping."},
+    {"name": "Econômica e brechó", "share": 0.10, "how": "Compra e vende em brechó (Enjoei e afins) e quer usar melhor o que já tem."},
+    {"name": "Preocupada com privacidade", "share": 0.10, "how": "Não gosta de dar acesso a redes e contatos para apps."}
+  ],
+  "objections": [
+    "Dá trabalho tirar foto e marcar quem estava em todo evento",
+    "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera",
+    "Ninguém repara se eu repetir roupa",
+    "Não quero marcar minhas amigas num app sem elas saberem",
+    "Não pago assinatura de app, só se for muito útil",
+    "Já baixei app de closet e larguei",
+    "Só funciona se minhas amigas também usarem"
+  ],
+  "habits": [
+    "você vai a pelo menos dois aniversários, happy hours ou festas por mês com os mesmos grupos",
+    "você posta stories em quase todo evento",
+    "você tem um grupo de WhatsApp de amigas que combina os rolês",
+    "você tem casamentos de amigas marcados no próximo ano",
+    "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+  ]
+}
