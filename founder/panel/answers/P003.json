@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Pra funcionar eu teria que liberar meus contatos e marcar minhas amigas sem elas saberem, e isso eu não faço. Além disso já baixei app de closet e larguei em duas semanas, tirar foto de todo look em toda festa não vai rolar.",
+  "objection": "Dar acesso aos meus contatos e guardar quem estava em cada lugar sem a pessoa saber. Onde ficam esses dados, quem vê, e se vazar?",
+  "would_change_my_mind": "Poder marcar as pessoas só com apelido digitado por mim, sem acesso aos contatos, e tudo salvo só no meu celular.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

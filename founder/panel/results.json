@@ -1,0 +1,161 @@
+{
+ "business": "Com Que Roupa (app diário de looks para não repetir roupa na frente das mesmas pessoas)",
+ "seed": 323592,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Profissional jovem, eventos de trabalho e vida social",
+   7,
+   0.0
+  ],
+  [
+   "Universitária ou recém-formada, muitas festas e encontros",
+   7,
+   0.0
+  ],
+  [
+   "Fase de casamentos e chás (convidada, madrinha, noiva)",
+   4,
+   0.0
+  ],
+  [
+   "Criadora de conteúdo / influenciadora pequena",
+   2,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Se preocupa em não repetir look",
+   4,
+   0.0
+  ],
+  [
+   "Não liga para repetir",
+   4,
+   0.0
+  ],
+  [
+   "Preocupada com privacidade",
+   2,
+   0.0
+  ],
+  [
+   "Testa todo app novo e larga logo",
+   3,
+   0.0
+  ],
+  [
+   "Compradora por impulso",
+   3,
+   0.0
+  ],
+  [
+   "Organizada",
+   2,
+   0.0
+  ],
+  [
+   "Econômica e brechó",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$102,000 and up",
+   7,
+   0.0
+  ],
+  [
+   "$40,000 to $102,000",
+   7,
+   0.0
+  ],
+  [
+   "under $40,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   9,
+   [
+    "A ideia é a minha cara, eu realmente confiro foto antiga antes de sair, então baixaria a versão grátis. Mas meus stories e a galeria já fazem esse papel de graça, e com 5 eventos por mês o grátis me segura no primeiro mês, não vejo motivo pra assinar logo.",
+    "Eu até baixaria pra testar, mas tirar foto e marcar gente em todo evento é o tipo de coisa que eu largo na segunda semana. E sinceramente, quando bate a dúvida, eu só olho o meu Instagram e o rolo da câmera, já resolve de graça."
+   ],
+   [
+    "P001",
+    "P004"
+   ]
+  ],
+  [
+   "need",
+   6,
+   [
+    "Eu repito roupa sem culpa e acho que ninguém repara, então pagar ou até perder tempo fotografando look e marcando quem estava não faz sentido pra mim. Nos casamentos das amigas eu penso mais no presente e na viagem do que em quem já viu meu vestido.",
+    "Eu repito roupa sem culpa e acho que ninguém repara, então não preciso de um app pra controlar quem viu meu look. Nem o grátis eu baixaria, quanto mais pagar R$ 14,90 por mês."
+   ],
+   [
+    "P002",
+    "P009"
+   ]
+  ],
+  [
+   "values",
+   3,
+   [
+    "Achei a ideia engraçada, mas marcar minhas amigas num app sem elas saberem me dá desconforto. E na real, quando bate a dúvida eu compro uma peça nova na Shein na véspera, não fico consultando app.",
+    "Marcar minhas amigas pelos contatos sem elas saberem me parece esquisito, e se elas descobrirem vira climão no grupo. Talvez eu até baixasse por curiosidade, mas usaria uma semana no grátis e esqueceria; pagar R$ 14,90 por mês, nem pensar."
+   ],
+   [
+    "P006",
+    "P013"
+   ]
+  ],
+  [
+   "trust",
+   2,
+   [
+    "Pra funcionar eu teria que liberar meus contatos e marcar minhas amigas sem elas saberem, e isso eu não faço. Além disso já baixei app de closet e larguei em duas semanas, tirar foto de todo look em toda festa não vai rolar.",
+    "Marcar quem estava no evento pelos meus contatos, sem a pessoa saber, é exatamente o tipo de acesso que eu não dou para app nenhum. E sinceramente, ninguém repara se eu repetir roupa; nos casamentos eu me viro com o que tenho e um aluguel aqui e ali."
+   ],
+   [
+    "P003",
+    "P011"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Se ele puxasse sozinho os looks das fotos e stories que eu já posto, sem eu ter que marcar nada na hora, e as sugestões de combinação fossem boas de verdade, eu pagaria.",
+  "Se minhas amigas começassem a usar e virasse um assunto do grupo, talvez eu baixasse a versão grátis por curiosidade antes de um casamento.",
+  "Poder marcar as pessoas só com apelido digitado por mim, sem acesso aos contatos, e tudo salvo só no meu celular.",
+  "Se ele puxasse sozinho as fotos que eu já tenho no rolo da câmera e no Instagram e montasse o histórico sem eu precisar registrar nada no dia.",
+  "Se ele me mostrasse quanto eu gasto em peça nova por evento e me convencesse com looks bonitos que eu consigo estrear combinação sem comprar nada, aí eu pagaria.",
+  "Se desse pra usar só com o nome do evento ou do grupo, sem marcar contato de ninguém, eu baixaria a versão grátis pra testar.",
+  "Se ele puxasse sozinho as fotos que eu já posto no Instagram e na galeria, reconhecendo as pessoas e as roupas, sem eu ter que registrar nada na hora.",
+  "Se ele puxasse os looks das fotos que eu já tenho na galeria e no Instagram, sem eu precisar registrar nada na hora, eu assinava logo.",
+  "Se minhas amigas começassem a usar e virasse moda no grupo, talvez eu testasse a versão grátis pros casamentos do ano que vem, mas pagar ainda seria difícil.",
+  "Se ele puxasse sozinho os looks e as pessoas das fotos que eu já tenho no rolo da câmera e no Instagram, sem eu marcar nada, e na temporada de casamentos eu passasse do limite grátis.",
+  "Poder marcar as pessoas só com apelidos digitados por mim, sem acesso aos contatos, e tudo guardado só no meu celular.",
+  "Se ele puxasse os looks e as pessoas das fotos que eu já tiro e posto, sem eu ter que cadastrar nada na hora do evento.",
+  "Poder registrar só o evento, sem marcar ninguém pelos contatos, e ver que minhas amigas também estão usando.",
+  "Se servisse para o meu conteúdo, tipo organizar os looks que já apareceram no meu perfil e sugerir combinações novas para postar, aí eu talvez testasse.",
+  "Se ele puxasse sozinho meus looks das fotos que já estão no rolo da câmera e no Instagram, sem eu precisar fotografar e marcar nada na hora.",
+  "Se fosse só um guarda-roupa que monta sozinho pelas fotos e me sugere combinações novas com o que eu já tenho, sem precisar marcar ninguém, talvez eu usasse a versão grátis antes de comprar roupa na véspera.",
+  "Poder marcar as pessoas só por apelido ou grupo, sem puxar os contatos do celular, e deixar claro que nada sai do meu aparelho.",
+  "Se ele puxasse sozinho as fotos que eu já tenho no Instagram e no rolo da câmera, sem eu marcar nada, e me desse ideias de combinação que realmente me fizessem comprar menos roupa.",
+  "Se ele puxasse sozinho as fotos que eu já tenho no rolo e no Instagram, montando o histórico de quem me viu com o quê sem eu precisar marcar nada.",
+  "Se ele puxasse sozinho as fotos que já tenho no Instagram e no rolo da câmera e montasse o guarda-roupa sem eu precisar fazer nada no dia do evento."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}

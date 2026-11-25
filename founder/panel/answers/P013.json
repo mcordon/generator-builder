@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Marcar minhas amigas pelos contatos sem elas saberem me parece esquisito, e se elas descobrirem vira climão no grupo. Talvez eu até baixasse por curiosidade, mas usaria uma semana no grátis e esqueceria; pagar R$ 14,90 por mês, nem pensar.",
+  "objection": "Não quero marcar minhas amigas num app sem elas saberem. Onde ficam esses dados delas? E sinceramente, eu já sei pelo Instagram o que postei.",
+  "would_change_my_mind": "Poder registrar só o evento, sem marcar ninguém pelos contatos, e ver que minhas amigas também estão usando.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

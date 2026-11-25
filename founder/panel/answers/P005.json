@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu não repito roupa porque compro uma peça nova pra cada evento, então o problema que o app resolve eu já resolvo do meu jeito. No máximo baixaria a versão grátis por curiosidade, mas pagar assinatura todo mês não.",
+  "objection": "Ter que lembrar de tirar foto e marcar todo mundo em cada evento, sendo que eu nem pretendo montar look com peça velha. Pra mim é mais um app de assinatura que eu ia esquecer de usar.",
+  "would_change_my_mind": "Se ele me mostrasse quanto eu gasto em peça nova por evento e me convencesse com looks bonitos que eu consigo estrear combinação sem comprar nada, aí eu pagaria.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}
