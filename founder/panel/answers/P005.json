@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Eu não repito roupa porque compro uma peça nova pra cada evento, então o problema que o app resolve eu já resolvo do meu jeito. No máximo baixaria a versão grátis por curiosidade, mas pagar assinatura todo mês não.",
-  "objection": "Ter que lembrar de tirar foto e marcar todo mundo em cada evento, sendo que eu nem pretendo montar look com peça velha. Pra mim é mais um app de assinatura que eu ia esquecer de usar.",
-  "would_change_my_mind": "Se ele me mostrasse quanto eu gasto em peça nova por evento e me convencesse com looks bonitos que eu consigo estrear combinação sem comprar nada, aí eu pagaria.",
+  "reason": "Eu não repito roupa porque eu compro uma nova pra cada evento, é isso que eu gosto de fazer. Talvez eu até baixe a versão grátis por curiosidade, mas pagar R$ 7,90 por mês pra um app me dizer pra usar o que já tenho não combina comigo.",
+  "objection": "Não pago assinatura de app, e o grátis de 3 meses já cobre o que eu preciso pros casamentos e chás da temporada. Também não sei se ele vai reconhecer direito as roupas nas minhas fotos.",
+  "would_change_my_mind": "Se o planejamento de looks pra casamento mostrasse de verdade quanto eu economizo por evento e a sugestão de looks ficasse tão bonita que eu deixasse de comprar na véspera.",
   "price_too_cheap": 2,
-  "price_cheap": 5,
-  "price_expensive": 12,
-  "price_too_expensive": 20
+  "price_cheap": 4.9,
+  "price_expensive": 9.9,
+  "price_too_expensive": 15
 }

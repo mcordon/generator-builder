@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "June",
+  "age": 29,
+  "segment": "Profissional jovem, eventos de trabalho e vida social",
+  "income": 104000,
+  "behaviour": "Se preocupa em não repetir look",
+  "behaviour_how": "Já evitou usar uma roupa porque as mesmas pessoas tinham visto, e confere fotos antigas antes de sair.",
+  "objection": "Não pago assinatura de app, só se for muito útil",
+  "habit": "você posta stories em quase todo evento"
+ },
+ {
+  "id": "P002",
+  "name": "Zara",
+  "age": 30,
+  "segment": "Profissional jovem, eventos de trabalho e vida social",
+  "income": 71000,
+  "behaviour": "Não liga para repetir",
+  "behaviour_how": "Repete roupa sem culpa e acha que ninguém repara.",
+  "objection": "Só funciona se minhas amigas também usarem",
+  "habit": "você tem casamentos de amigas marcados no próximo ano"
+ },
+ {
+  "id": "P003",
+  "name": "Ethan",
+  "age": 33,
+  "segment": "Universitária ou recém-formada, muitas festas e encontros",
+  "income": 40000,
+  "behaviour": "Preocupada com privacidade",
+  "behaviour_how": "Não gosta de dar acesso a redes e contatos para apps.",
+  "objection": "Já baixei app de closet e larguei",
+  "habit": "você tem um grupo de WhatsApp de amigas que combina os rolês"
+ },
+ {
+  "id": "P004",
+  "name": "Omar",
+  "age": 29,
+  "segment": "Profissional jovem, eventos de trabalho e vida social",
+  "income": 88000,
+  "behaviour": "Testa todo app novo e larga logo",
+  "behaviour_how": "Baixa apps da moda pelo TikTok, usa uma semana e esquece.",
+  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera",
+  "habit": "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+ },
+ {
+  "id": "P005",
+  "name": "Amara",
+  "age": 26,
+  "segment": "Fase de casamentos e chás (convidada, madrinha, noiva)",
+  "income": 137000,
+  "behaviour": "Compradora por impulso",
+  "behaviour_how": "Compra peça nova para cada evento importante, muitas vezes pela Shein, Shopee ou lojas de shopping.",
+  "objection": "Não pago assinatura de app, só se for muito útil",
+  "habit": "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+ },
+ {
+  "id": "P006",
+  "name": "Kira",
+  "age": 34,
+  "segment": "Universitária ou recém-formada, muitas festas e encontros",
+  "income": 35000,
+  "behaviour": "Compradora por impulso",
+  "behaviour_how": "Compra peça nova para cada evento importante, muitas vezes pela Shein, Shopee ou lojas de shopping.",
+  "objection": "Não quero marcar minhas amigas num app sem elas saberem",
+  "habit": "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+ },
+ {
+  "id": "P007",
+  "name": "Malik",
+  "age": 23,
+  "segment": "Profissional jovem, eventos de trabalho e vida social",
+  "income": 77000,
+  "behaviour": "Se preocupa em não repetir look",
+  "behaviour_how": "Já evitou usar uma roupa porque as mesmas pessoas tinham visto, e confere fotos antigas antes de sair.",
+  "objection": "Só funciona se minhas amigas também usarem",
+  "habit": "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+ },
+ {
+  "id": "P008",
+  "name": "Beatriz",
+  "age": 34,
+  "segment": "Profissional jovem, eventos de trabalho e vida social",
+  "income": 68000,
+  "behaviour": "Se preocupa em não repetir look",
+  "behaviour_how": "Já evitou usar uma roupa porque as mesmas pessoas tinham visto, e confere fotos antigas antes de sair.",
+  "objection": "Só funciona se minhas amigas também usarem",
+  "habit": "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+ },
+ {
+  "id": "P009",
+  "name": "Ava",
+  "age": 30,
+  "segment": "Universitária ou recém-formada, muitas festas e encontros",
+  "income": 43000,
+  "behaviour": "Não liga para repetir",
+  "behaviour_how": "Repete roupa sem culpa e acha que ninguém repara.",
+  "objection": "Só funciona se minhas amigas também usarem",
+  "habit": "você tem casamentos de amigas marcados no próximo ano"
+ },
+ {
+  "id": "P010",
+  "name": "Isla",
+  "age": 29,
+  "segment": "Fase de casamentos e chás (convidada, madrinha, noiva)",
+  "income": 140000,
+  "behaviour": "Organizada",
+  "behaviour_how": "Gosta de planilhas, listas e já tentou organizar o armário por app.",
+  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera",
+  "habit": "você vai a pelo menos dois aniversários, happy hours ou festas por mês com os mesmos grupos"
+ },
+ {
+  "id": "P011",
+  "name": "Anya",
+  "age": 34,
+  "segment": "Profissional jovem, eventos de trabalho e vida social",
+  "income": 117000,
+  "behaviour": "Preocupada com privacidade",
+  "behaviour_how": "Não gosta de dar acesso a redes e contatos para apps.",
+  "objection": "Ninguém repara se eu repetir roupa",
+  "habit": "você tem casamentos de amigas marcados no próximo ano"
+ },
+ {
+  "id": "P012",
+  "name": "Hugo",
+  "age": 22,
+  "segment": "Criadora de conteúdo / influenciadora pequena",
+  "income": 30000,
+  "behaviour": "Testa todo app novo e larga logo",
+  "behaviour_how": "Baixa apps da moda pelo TikTok, usa uma semana e esquece.",
+  "objection": "Dá trabalho tirar foto e marcar quem estava em todo evento",
+  "habit": "você tem um grupo de WhatsApp de amigas que combina os rolês"
+ },
+ {
+  "id": "P013",
+  "name": "Zoe",
+  "age": 24,
+  "segment": "Profissional jovem, eventos de trabalho e vida social",
+  "income": 75000,
+  "behaviour": "Testa todo app novo e larga logo",
+  "behaviour_how": "Baixa apps da moda pelo TikTok, usa uma semana e esquece.",
+  "objection": "Não quero marcar minhas amigas num app sem elas saberem",
+  "habit": "você tem um grupo de WhatsApp de amigas que combina os rolês"
+ },
+ {
+  "id": "P014",
+  "name": "Theo",
+  "age": 24,
+  "segment": "Criadora de conteúdo / influenciadora pequena",
+  "income": 167000,
+  "behaviour": "Não liga para repetir",
+  "behaviour_how": "Repete roupa sem culpa e acha que ninguém repara.",
+  "objection": "Não pago assinatura de app, só se for muito útil",
+  "habit": "você tem casamentos de amigas marcados no próximo ano"
+ },
+ {
+  "id": "P015",
+  "name": "Kofi",
+  "age": 26,
+  "segment": "Fase de casamentos e chás (convidada, madrinha, noiva)",
+  "income": 108000,
+  "behaviour": "Organizada",
+  "behaviour_how": "Gosta de planilhas, listas e já tentou organizar o armário por app.",
+  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera",
+  "habit": "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+ },
+ {
+  "id": "P016",
+  "name": "Harper",
+  "age": 34,
+  "segment": "Universitária ou recém-formada, muitas festas e encontros",
+  "income": 39000,
+  "behaviour": "Não liga para repetir",
+  "behaviour_how": "Repete roupa sem culpa e acha que ninguém repara.",
+  "objection": "Não quero marcar minhas amigas num app sem elas saberem",
+  "habit": "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+ },
+ {
+  "id": "P017",
+  "name": "Lucia",
+  "age": 22,
+  "segment": "Universitária ou recém-formada, muitas festas e encontros",
+  "income": 19000,
+  "behaviour": "Compradora por impulso",
+  "behaviour_how": "Compra peça nova para cada evento importante, muitas vezes pela Shein, Shopee ou lojas de shopping.",
+  "objection": "Não quero marcar minhas amigas num app sem elas saberem",
+  "habit": "você vai a pelo menos dois aniversários, happy hours ou festas por mês com os mesmos grupos"
+ },
+ {
+  "id": "P018",
+  "name": "Dana",
+  "age": 20,
+  "segment": "Universitária ou recém-formada, muitas festas e encontros",
+  "income": 21000,
+  "behaviour": "Econômica e brechó",
+  "behaviour_how": "Compra e vende em brechó (Enjoei e afins) e quer usar melhor o que já tem.",
+  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera",
+  "habit": "você tem um grupo de WhatsApp de amigas que combina os rolês"
+ },
+ {
+  "id": "P019",
+  "name": "Fatima",
+  "age": 24,
+  "segment": "Fase de casamentos e chás (convidada, madrinha, noiva)",
+  "income": 102000,
+  "behaviour": "Se preocupa em não repetir look",
+  "behaviour_how": "Já evitou usar uma roupa porque as mesmas pessoas tinham visto, e confere fotos antigas antes de sair.",
+  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera",
+  "habit": "você tem um grupo de WhatsApp de amigas que combina os rolês"
+ },
+ {
+  "id": "P020",
+  "name": "Caleb",
+  "age": 28,
+  "segment": "Universitária ou recém-formada, muitas festas e encontros",
+  "income": 20000,
+  "behaviour": "Econômica e brechó",
+  "behaviour_how": "Compra e vende em brechó (Enjoei e afins) e quer usar melhor o que já tem.",
+  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera",
+  "habit": "você já comprou roupa na véspera de um evento por achar que não tinha o que vestir"
+ }
+]

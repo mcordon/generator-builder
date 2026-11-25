@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Eu já resolvo isso rolando meu Instagram e o rolo da câmera antes de sair, e de graça. Até usaria a versão grátis por curiosidade, mas pagar R$ 14,90 por mês com o meu orçamento, sendo que esse dinheiro compra uma peça no brechó, não rola.",
-  "objection": "Vou lembrar de tirar foto e marcar todo mundo em cada festa? Se eu esquecer duas vezes o app já não serve pra nada, e meu histórico de fotos já existe.",
-  "would_change_my_mind": "Se ele puxasse sozinho as fotos que já tenho no Instagram e no rolo da câmera e montasse o guarda-roupa sem eu precisar fazer nada no dia do evento.",
-  "price_too_cheap": 2,
-  "price_cheap": 4.9,
-  "price_expensive": 9.9,
-  "price_too_expensive": 15
+  "reason": "Eu já resolvo isso rolando meu Instagram e o rolo da câmera antes de sair, e quando enjoo de uma peça vendo no Enjoei e pego outra no brechó. Até baixaria a versão grátis por curiosidade, mas pagar R$ 7,90 todo mês por algo que eu faço de graça não cabe no meu orçamento.",
+  "objection": "Meu rolo da câmera é um caos de print, meme e foto de amiga; duvido que o app reconheça direito minhas roupas de brechó, e eu não quero mais uma assinatura pra lembrar de cancelar.",
+  "would_change_my_mind": "Se ele me ajudasse a ganhar dinheiro, tipo avisar quais peças eu quase não uso e já criar o anúncio pra vender no Enjoei, aí o Premium se pagaria.",
+  "price_too_cheap": 1.9,
+  "price_cheap": 3.9,
+  "price_expensive": 6.9,
+  "price_too_expensive": 12.9
 }

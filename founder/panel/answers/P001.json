@@ -2,12 +2,12 @@
   "id": "P001",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "A ideia é a minha cara, eu realmente confiro foto antiga antes de sair, então baixaria a versão grátis. Mas meus stories e a galeria já fazem esse papel de graça, e com 5 eventos por mês o grátis me segura no primeiro mês, não vejo motivo pra assinar logo.",
-  "objection": "Não pago assinatura de app. Vou lembrar de tirar foto e marcar quem estava em todo evento, no meio da festa? Se eu esquecer duas vezes o histórico fica furado e aí não vale R$ 14,90 todo mês.",
-  "would_change_my_mind": "Se ele puxasse sozinho os looks das fotos e stories que eu já posto, sem eu ter que marcar nada na hora, e as sugestões de combinação fossem boas de verdade, eu pagaria.",
+  "reason_code": "need",
+  "reason": "Eu baixaria na hora, porque já fico rolando fotos antigas antes de sair, mas usaria o grátis e o teste de 30 dias. Pagar assinatura só se o grátis de 3 meses não der conta, e para os grupos que vejo todo mês ele provavelmente dá.",
+  "objection": "Não sei se o app reconhece direito minhas roupas nas fotos com filtro, luz de festa e gente na frente. Se eu tiver que corrigir tudo na mão, desisto em uma semana e volto a olhar o rolo da câmera.",
+  "would_change_my_mind": "Precisar do histórico de mais de 3 meses, tipo para lembrar o que usei no Natal ou no último casamento da família do mesmo noivo, e ver que o reconhecimento funcionou bem no teste.",
   "price_too_cheap": 2,
-  "price_cheap": 5.9,
-  "price_expensive": 12.9,
-  "price_too_expensive": 19.9
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
 }

@@ -2,12 +2,12 @@
   "id": "P011",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Marcar quem estava no evento pelos meus contatos, sem a pessoa saber, é exatamente o tipo de acesso que eu não dou para app nenhum. E sinceramente, ninguém repara se eu repetir roupa; nos casamentos eu me viro com o que tenho e um aluguel aqui e ali.",
-  "objection": "Dar acesso aos meus contatos e guardar fotos minhas com a lista de quem estava em cada evento. Onde fica isso, quem vê, e as minhas amigas nem sabem que estão sendo registradas.",
-  "would_change_my_mind": "Poder marcar as pessoas só com apelidos digitados por mim, sem acesso aos contatos, e tudo guardado só no meu celular.",
-  "price_too_cheap": 3,
-  "price_cheap": 7,
-  "price_expensive": 15,
-  "price_too_expensive": 25
+  "reason_code": "need",
+  "reason": "Sinceramente, ninguém repara se eu repetir roupa, e eu também não me preocupo tanto com isso. Para os casamentos do ano que vem eu resolvo com uma ou duas peças novas, não preciso de um app pra isso.",
+  "objection": "Dar acesso ao rolo da câmera inteiro para um app ler minhas fotos. Dizem que fica no celular, mas eu não tenho como conferir, e são todas as minhas fotos.",
+  "would_change_my_mind": "Poder escolher só algumas fotos ou cadastrar as peças eu mesma, sem liberar o rolo todo, e alguma prova independente de que nada sai do celular.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
 }

@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "Eu repito roupa sem culpa nenhuma e sinceramente acho que ninguém repara, então pagar ou mesmo perder tempo fotografando look pra controlar quem viu o quê não faz sentido pra mim. E ainda tem a parte de marcar minhas amigas escondido, que me incomoda.",
-  "objection": "Não quero marcar minhas amigas num app sem elas saberem. Parece meio vigilância, e se alguém descobre fica estranho.",
-  "would_change_my_mind": "Se fosse só um guarda-roupa que monta sozinho pelas fotos e me sugere combinações novas com o que eu já tenho, sem precisar marcar ninguém, talvez eu usasse a versão grátis antes de comprar roupa na véspera.",
-  "price_too_cheap": 2,
-  "price_cheap": 5,
-  "price_expensive": 10,
-  "price_too_expensive": 15
+  "reason": "Eu repito roupa sem culpa e sinceramente acho que ninguém repara, então um app pra lembrar quem já viu meu look resolve um problema que eu não tenho. Até baixaria por curiosidade, mas não pagaria Premium.",
+  "objection": "Não vejo por que eu precisaria disso. E deixar um app vasculhar todo o meu rolo da câmera, com foto das minhas amigas, me deixa com o pé atrás, mesmo dizendo que fica no celular.",
+  "would_change_my_mind": "Se as sugestões de looks com o que eu já tenho fossem boas de verdade e me livrassem de sair comprando roupa na véspera de festa, aí talvez valesse.",
+  "price_too_cheap": 1.9,
+  "price_cheap": 3.9,
+  "price_expensive": 7.9,
+  "price_too_expensive": 12.9
 }

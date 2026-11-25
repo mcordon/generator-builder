@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Eu até baixaria pra testar, mas tirar foto e marcar gente em todo evento é o tipo de coisa que eu largo na segunda semana. E sinceramente, quando bate a dúvida, eu só olho o meu Instagram e o rolo da câmera, já resolve de graça.",
-  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera, e não vou manter o hábito de registrar cada look e cada pessoa. O plano grátis já cobre meus 5 eventos por mês, então pagar não faz sentido.",
-  "would_change_my_mind": "Se ele puxasse sozinho as fotos que eu já tenho no rolo da câmera e no Instagram e montasse o histórico sem eu precisar registrar nada no dia.",
-  "price_too_cheap": 3,
-  "price_cheap": 6.9,
-  "price_expensive": 12.9,
-  "price_too_expensive": 19.9
+  "reason": "Eu até baixaria pelo teste grátis sem cartão, mas eu sou o cara que usa app novo uma semana e esquece. Quando o Premium fosse cobrar eu já nem lembraria que ele existe, e quando quero saber se repeti roupa eu olho meu Instagram e o rolo da câmera.",
+  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera, e homem repetindo roupa no trabalho ninguém repara tanto assim. Pagar todo mês por isso não faz sentido pra mim.",
+  "would_change_my_mind": "Se ele me avisasse sozinho antes de cada evento, puxando da minha agenda, sem eu ter que abrir o app, aí talvez virasse hábito e eu pagasse.",
+  "price_too_cheap": 1.9,
+  "price_cheap": 4.9,
+  "price_expensive": 9.9,
+  "price_too_expensive": 14.9
 }

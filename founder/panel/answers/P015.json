@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Já tentei organizar o armário por app e larguei em poucas semanas, e para lembrar o que usei no último casamento eu só abro o Instagram ou o rolo da câmera. No máximo baixaria a versão grátis, e 5 eventos por mês já me bastam, então não pagaria o Premium.",
-  "objection": "Vou ter que lembrar de tirar foto e marcar as pessoas em todo evento, no meio da festa, e eu sei que vou esquecer em duas semanas como esqueci o outro app. Meu histórico já está nas fotos que eu posto.",
-  "would_change_my_mind": "Se ele puxasse sozinho meus looks das fotos que já estão no rolo da câmera e no Instagram, sem eu precisar fotografar e marcar nada na hora.",
-  "price_too_cheap": 3,
-  "price_cheap": 7.9,
-  "price_expensive": 14.9,
+  "reason": "Eu até baixaria pelo teste grátis, porque estou na fase dos casamentos e adoro uma lista, mas já tentei organizar o armário por app e larguei em duas semanas. Quando preciso lembrar o que usei, eu rolo o Instagram e resolvo; no primeiro mês não pagaria nada.",
+  "objection": "Já tenho o histórico das minhas fotos no Instagram e no rolo da câmera, e duvido que o app reconheça direito as roupas em foto de festa, escura e de grupo. Se eu tiver que corrigir tudo na mão, vira mais uma planilha que eu abandono.",
+  "would_change_my_mind": "Se no teste ele montasse sozinho, sem erro, o histórico dos meus looks dos últimos casamentos e o planejamento de looks para os próximos três eventos de madrinha me poupasse uma compra de véspera.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
   "price_too_expensive": 25
 }

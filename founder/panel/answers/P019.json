@@ -1,13 +1,13 @@
 {
   "id": "P019",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Eu já faço isso rolando o Instagram e o rolo da câmera antes de sair, e funciona. Talvez eu baixe a versão grátis por curiosidade, mas 5 eventos por mês dá conta de mim, então não pagaria o premium agora.",
-  "objection": "Vou ter que lembrar de tirar foto e marcar quem estava em todo casamento e chá, no meio da correria de madrinha. Se eu esquecer duas vezes o histórico fica furado e eu volto pro Instagram.",
-  "would_change_my_mind": "Se ele puxasse sozinho as fotos que eu já tenho no rolo e no Instagram, montando o histórico de quem me viu com o quê sem eu precisar marcar nada.",
-  "price_too_cheap": 3,
-  "price_cheap": 7.9,
-  "price_expensive": 19.9,
-  "price_too_expensive": 29.9
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Tô numa fase de casamento e chá todo fim de semana, com as mesmas pessoas, e hoje eu fico rolando o Instagram e o rolo da câmera pra ver o que já usei. Baixo o grátis na hora, faço os 30 dias de Premium pelo planejamento de casamento e, se funcionar, R$ 7,90 eu pago sem pensar.",
+  "objection": "Metade das fotos dos eventos quem tira são as amigas e ficam no celular delas ou no Instagram, não no meu rolo. E duvido que o app reconheça direito um vestido de madrinha de um vestido parecido; se eu tiver que corrigir tudo na mão, desisto em uma semana.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
 }

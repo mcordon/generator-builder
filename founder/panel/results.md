@@ -1,6 +1,6 @@
 # Buyer panel: Com Que Roupa (app diário de looks para não repetir roupa na frente das mesmas pessoas)
 
-**0 buy · 20 pass** (0% buy) out of 20 simulated buyers. Seed 323592, so the same cards can be dealt again.
+**2 buy · 18 pass** (10% buy) out of 20 simulated buyers. Seed 323592, so the same cards can be dealt again.
 
 These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
 
@@ -8,16 +8,16 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Profissional jovem, eventos de trabalho e vida social | 7 | 0%  (thin) |
+| Fase de casamentos e chás (convidada, madrinha, noiva) | 4 | 25%  (thin) |
+| Profissional jovem, eventos de trabalho e vida social | 7 | 14%  (thin) |
 | Universitária ou recém-formada, muitas festas e encontros | 7 | 0%  (thin) |
-| Fase de casamentos e chás (convidada, madrinha, noiva) | 4 | 0%  (thin) |
 | Criadora de conteúdo / influenciadora pequena | 2 | 0%  (thin) |
 
 ## By buying behaviour
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Se preocupa em não repetir look | 4 | 0%  (thin) |
+| Se preocupa em não repetir look | 4 | 50%  (thin) |
 | Não liga para repetir | 4 | 0%  (thin) |
 | Preocupada com privacidade | 2 | 0%  (thin) |
 | Testa todo app novo e larga logo | 3 | 0%  (thin) |
@@ -29,37 +29,38 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| $102,000 and up | 7 | 0%  (thin) |
-| $40,000 to $102,000 | 7 | 0%  (thin) |
+| $102,000 and up | 7 | 14%  (thin) |
+| $40,000 to $102,000 | 7 | 14%  (thin) |
 | under $40,000 | 6 | 0%  (thin) |
 
 ## Why they pass
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| habit | 9 | "A ideia é a minha cara, eu realmente confiro foto antiga antes de sair, então baixaria a versão grátis. Mas meus stories e a galeria já fazem esse papel de graça, e com 5 eventos por mês o grátis me segura no primeiro mês, não vejo motivo pra assinar logo." (P001) · "Eu até baixaria pra testar, mas tirar foto e marcar gente em todo evento é o tipo de coisa que eu largo na segunda semana. E sinceramente, quando bate a dúvida, eu só olho o meu Instagram e o rolo da câmera, já resolve de graça." (P004) |
-| need | 6 | "Eu repito roupa sem culpa e acho que ninguém repara, então pagar ou até perder tempo fotografando look e marcando quem estava não faz sentido pra mim. Nos casamentos das amigas eu penso mais no presente e na viagem do que em quem já viu meu vestido." (P002) · "Eu repito roupa sem culpa e acho que ninguém repara, então não preciso de um app pra controlar quem viu meu look. Nem o grátis eu baixaria, quanto mais pagar R$ 14,90 por mês." (P009) |
-| values | 3 | "Achei a ideia engraçada, mas marcar minhas amigas num app sem elas saberem me dá desconforto. E na real, quando bate a dúvida eu compro uma peça nova na Shein na véspera, não fico consultando app." (P006) · "Marcar minhas amigas pelos contatos sem elas saberem me parece esquisito, e se elas descobrirem vira climão no grupo. Talvez eu até baixasse por curiosidade, mas usaria uma semana no grátis e esqueceria; pagar R$ 14,90 por mês, nem pensar." (P013) |
-| trust | 2 | "Pra funcionar eu teria que liberar meus contatos e marcar minhas amigas sem elas saberem, e isso eu não faço. Além disso já baixei app de closet e larguei em duas semanas, tirar foto de todo look em toda festa não vai rolar." (P003) · "Marcar quem estava no evento pelos meus contatos, sem a pessoa saber, é exatamente o tipo de acesso que eu não dou para app nenhum. E sinceramente, ninguém repara se eu repetir roupa; nos casamentos eu me viro com o que tenho e um aluguel aqui e ali." (P011) |
+| habit | 10 | "Já baixei app de closet e larguei em duas semanas. Talvez eu até teste o grátis por curiosidade, mas pagar R$ 7,90 por mês pra lembrar o que eu usei? Eu e as meninas já resolvemos isso no grupo do WhatsApp." (P003) · "Eu até baixaria pelo teste grátis sem cartão, mas eu sou o cara que usa app novo uma semana e esquece. Quando o Premium fosse cobrar eu já nem lembraria que ele existe, e quando quero saber se repeti roupa eu olho meu Instagram e o rolo da câmera." (P004) |
+| need | 8 | "Eu baixaria na hora, porque já fico rolando fotos antigas antes de sair, mas usaria o grátis e o teste de 30 dias. Pagar assinatura só se o grátis de 3 meses não der conta, e para os grupos que vejo todo mês ele provavelmente dá." (P001) · "Eu repito roupa sem culpa e sinceramente acho que ninguém repara, então um app para controlar quem já viu meu look resolve um problema que eu não tenho. Talvez baixasse o grátis por curiosidade antes de um casamento, mas pagar não." (P002) |
 
 ## Why they buy
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
+| need | 2 | "Eu já faço isso na mão, rolando fotos antigas antes de sair, então um app que faz sozinho me pouparia tempo e aquela compra de véspera. Testo os 30 dias grátis e, se ele acertar as roupas, R$ 7,90 é menos que um drink, assino." (P008) · "Tô numa fase de casamento e chá todo fim de semana, com as mesmas pessoas, e hoje eu fico rolando o Instagram e o rolo da câmera pra ver o que já usei. Baixo o grátis na hora, faço os 30 dias de Premium pelo planejamento de casamento e, se funcionar, R$ 7,90 eu pago sem pensar." (P019) |
 
 ## What would flip a no
 
-- Se ele puxasse sozinho os looks das fotos e stories que eu já posto, sem eu ter que marcar nada na hora, e as sugestões de combinação fossem boas de verdade, eu pagaria.
-- Se minhas amigas começassem a usar e virasse um assunto do grupo, talvez eu baixasse a versão grátis por curiosidade antes de um casamento.
-- Poder marcar as pessoas só com apelido digitado por mim, sem acesso aos contatos, e tudo salvo só no meu celular.
-- Se ele puxasse sozinho as fotos que eu já tenho no rolo da câmera e no Instagram e montasse o histórico sem eu precisar registrar nada no dia.
-- Se ele me mostrasse quanto eu gasto em peça nova por evento e me convencesse com looks bonitos que eu consigo estrear combinação sem comprar nada, aí eu pagaria.
-- Se desse pra usar só com o nome do evento ou do grupo, sem marcar contato de ninguém, eu baixaria a versão grátis pra testar.
-- Se ele puxasse sozinho as fotos que eu já posto no Instagram e na galeria, reconhecendo as pessoas e as roupas, sem eu ter que registrar nada na hora.
-- Se ele puxasse os looks das fotos que eu já tenho na galeria e no Instagram, sem eu precisar registrar nada na hora, eu assinava logo.
-- Se minhas amigas começassem a usar e virasse moda no grupo, talvez eu testasse a versão grátis pros casamentos do ano que vem, mas pagar ainda seria difícil.
-- Se ele puxasse sozinho os looks e as pessoas das fotos que eu já tenho no rolo da câmera e no Instagram, sem eu marcar nada, e na temporada de casamentos eu passasse do limite grátis.
-- Poder marcar as pessoas só com apelidos digitados por mim, sem acesso aos contatos, e tudo guardado só no meu celular.
-- Se ele puxasse os looks e as pessoas das fotos que eu já tiro e posto, sem eu ter que cadastrar nada na hora do evento.
+- Precisar do histórico de mais de 3 meses, tipo para lembrar o que usei no Natal ou no último casamento da família do mesmo noivo, e ver que o reconhecimento funcionou bem no teste.
+- Se o planejamento de looks para os casamentos do ano que vem me poupasse de comprar vestido novo para cada um, mostrando quanto eu economizo.
+- Poder escolher só algumas fotos em vez de liberar o rolo todo, e uma prova clara (tipo funcionar em modo avião) de que nada sai do meu celular.
+- Se ele me avisasse sozinho antes de cada evento, puxando da minha agenda, sem eu ter que abrir o app, aí talvez virasse hábito e eu pagasse.
+- Se o planejamento de looks pra casamento mostrasse de verdade quanto eu economizo por evento e a sugestão de looks ficasse tão bonita que eu deixasse de comprar na véspera.
+- Se o painel de gastos me mostrasse de verdade quanto eu jogo fora em roupa de Shein por evento e me ajudasse a economizar pra algo que eu quero, talvez eu pagasse depois do teste grátis.
+- Ver que ele acerta mesmo as peças nas minhas fotos e chegar um casamento ou viagem em que eu precise planejar vários looks; aí R$ 7,90 por um mês eu pagaria sem pensar.
+- Se minhas amigas começassem a usar e a reparar em repetição de look, ou se o planejamento pros casamentos do ano que vem fosse realmente útil.
+- Se na primeira leitura do rolo ele acertar quase todas as peças sozinho, e o planejamento de looks para a temporada de casamentos em que eu sou madrinha e convidada funcionar de verdade, eu pagaria o Premium sem pensar.
+- Poder escolher só algumas fotos ou cadastrar as peças eu mesma, sem liberar o rolo todo, e alguma prova independente de que nada sai do celular.
+- Se ele também mostrasse quais looks já apareceram no meu Instagram e TikTok e me ajudasse a planejar o conteúdo, aí viraria ferramenta de trabalho e eu pagaria.
+- Se ele me lembrasse sozinho antes do evento, tipo puxando do calendário ou de um atalho no WhatsApp, sem eu ter que lembrar de abrir.
+
+Buyers say they would buy **1.0 times** in the first month on average.
 
 20 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.
