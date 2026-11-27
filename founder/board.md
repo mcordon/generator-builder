@@ -30,3 +30,6 @@ Não é "mais uma biblioteca de livros cristãos". É **um clube de leitura cris
 
 ## Resposta direta: vai dar lucro?
 **Ainda não dá para saber.** O número que decide é **quanto custam os direitos dos livros**. Com ele, mais as taxas de pagamento, o custo do site e uma estimativa de assinantes, o `/founder-cfo` calcula o lucro.
+
+## Atualização depois de ler o site (`site.md`)
+O site confirma o principal risco do conselho: **o "ilimitado" tem hoje cerca de 21 títulos**, a maioria devocionais curtos, e a área "Saúde" está vazia. Também apareceram dois pontos para o CFO: **o livro impresso anual** (custo de impressão e envio sobre R$ 77,77) e a **venda avulsa a R$ 1,00** (a taxa de pagamento pode levar boa parte). A ideia do conselho de um clube de leitura para igrejas encaixa com o que o site já diz no "Sobre" ("alguem da equipe pastoral pode caminhar junto").
