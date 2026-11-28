@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu já tenho a Bíblia no YouVersion e recebo devocional todo dia no WhatsApp de graça, e quando quero um livro de verdade compro em papel na livraria da igreja. Vinte títulos curtos no celular não mudam minha rotina; no máximo leio os dois grátis.",
+  "objection": "Prefiro livro de papel, e devocional curto no celular eu já tenho de sobra sem pagar nada.",
+  "would_change_my_mind": "Se o plano anual trouxesse material bom para usar com a minha célula, tipo estudos prontos para o grupo, e o livro impresso fosse de um autor que eu conheço.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

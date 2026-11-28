@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu gosto de livro de papel, de autor que eu conheço, comprado na livraria da igreja. Não sei quem escreve esses devocionais nem se a doutrina bate com a da minha igreja, então não vou assinar só pelo preço baixo.",
+  "objection": "Não sei se é da minha linha de igreja: quem são os autores, qual a doutrina, quem é essa equipe pastoral? Não vou indicar para a minha célula algo que eu não conheço.",
+  "would_change_my_mind": "Ver os nomes dos autores e a igreja ou ministério por trás, e ter a recomendação do meu pastor; aí eu leria os títulos grátis e talvez pegasse o anual pelo livro impresso.",
+  "price_too_cheap": 3,
+  "price_cheap": 7,
+  "price_expensive": 20,
+  "price_too_expensive": 35
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "O preço é baixo, menos que um lanche, mas eu já não dou conta de ler o devocional que tenho e o Kindle que pago. Eu pegaria os dois títulos grátis e as amostras e veria se eu realmente leio antes de assinar mais uma coisa.",
+  "objection": "Não tenho tempo para ler. Vinte títulos, quase todos devocionais curtos, é pouco perto do que já existe de graça na igreja e no YouTube, e eu nunca ouvi falar de vocês.",
+  "would_change_my_mind": "Se os áudios fossem curtos, de cinco minutos, para ouvir no carro indo pro trabalho, e um pastor ou alguém da minha igreja recomendasse.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

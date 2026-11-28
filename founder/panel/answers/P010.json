@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu quase não leio, meu alimento é pregação e podcast no trânsito, e isso eu já tenho de graça no YouTube e no Spotify. Vinte devocionais curtos para ler no celular não mudam minha semana; eu pegaria os dois grátis e pararia aí.",
+  "objection": "Não sei de qual linha teológica é isso, nem quem escreve. Como pastor, não posso indicar nem ler coisa que vá contra o que a gente ensina na igreja, e o site não diz quem está por trás.",
+  "would_change_my_mind": "Se a maior parte fosse em áudio para eu ouvir no carro, com os autores e a linha doutrinária claros e batendo com a minha.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

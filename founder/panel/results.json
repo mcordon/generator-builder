@@ -1,0 +1,159 @@
+{
+ "business": "70x7 Books (assinatura de livros, orações e devocionais cristãos)",
+ "seed": 861737,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Membro de igreja que lê devocional no dia a dia",
+   8,
+   0.0
+  ],
+  [
+   "Pastor ou obreiro de igreja pequena",
+   3,
+   0.0
+  ],
+  [
+   "Pai ou mãe cristãos buscando conteúdo para os filhos",
+   4,
+   0.0
+  ],
+  [
+   "Líder de célula, ministério ou pequeno grupo",
+   5,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Compartilha tudo no grupo da igreja",
+   2,
+   0.0
+  ],
+  [
+   "Segue pastores e pregadores famosos",
+   3,
+   0.0
+  ],
+  [
+   "Já assina streaming e apps",
+   3,
+   0.0
+  ],
+  [
+   "Compra livro físico na livraria cristã",
+   3,
+   0.0
+  ],
+  [
+   "Desconfiado com dinheiro e fé",
+   2,
+   0.0
+  ],
+  [
+   "Usa só a Bíblia e devocionais grátis",
+   5,
+   0.0
+  ],
+  [
+   "Lê pouco, prefere áudio e vídeo",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "under $49,000",
+   6,
+   0.0
+  ],
+  [
+   "$49,000 to $66,000",
+   7,
+   0.0
+  ],
+  [
+   "$66,000 and up",
+   7,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   8,
+   [
+    "Eu já leio meu devocional todo dia de graça no celular, no app da Bíblia e no que o pastor manda no grupo. Vou baixar os dois títulos grátis e mandar pra célula, mas pagar por mês por uns 20 devocionais curtos eu não vejo necessidade agora.",
+    "O preço é baixo, menos que um lanche, mas eu já não dou conta de ler o devocional que tenho e o Kindle que pago. Eu pegaria os dois títulos grátis e as amostras e veria se eu realmente leio antes de assinar mais uma coisa."
+   ],
+   [
+    "P001",
+    "P004"
+   ]
+  ],
+  [
+   "trust",
+   8,
+   [
+    "Eu gosto de livro de papel, de autor que eu conheço, comprado na livraria da igreja. Não sei quem escreve esses devocionais nem se a doutrina bate com a da minha igreja, então não vou assinar só pelo preço baixo.",
+    "Não conheço a 70x7 nem quem escreve esses devocionais, e eu não coloco qualquer conteúdo cristão na frente dos meus filhos sem saber a doutrina por trás. Esse nome de '777' e 'área financeira' me deixa com o pé atrás de teologia da prosperidade; e, sinceramente, não tenho tempo para ler, vou pegar os grátis e ver."
+   ],
+   [
+    "P006",
+    "P007"
+   ]
+  ],
+  [
+   "quality",
+   3,
+   [
+    "Sou pastor, leio comentários, Bíblia de estudo e os livros que os pregadores que eu sigo indicam; vinte devocionais curtos de autores que eu não conheço não acrescentam nada ao meu estudo. Baixo os dois grátis, leio a amostra, mas não assino.",
+    "O preço é baixo, não é isso. O que eu procuro é conteúdo para os meus filhos, e o catálogo tem uns 20 títulos, a maioria devocional curto para adulto, sem dizer quanto tem de fato na área Kids. Eu leria os dois títulos grátis e as amostras e pararia por aí."
+   ],
+   [
+    "P003",
+    "P005"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "Já leio meu devocional todo dia de graça no app da Bíblia, então não sinto falta de mais um. Vou ler os dois títulos grátis e, se forem bons, mando no grupo da célula, mas pagar por uns 20 devocionais curtos não me convence agora."
+   ],
+   [
+    "P002"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Se tivesse um devocional para casais ou sobre finanças que o pessoal da célula fosse ler junto e meu pastor indicasse, aí eu assinava o anual.",
+  "Se o pastor ou alguém da célula indicasse, ou se tivesse um devocional para casal ou finanças que a gente pudesse ler junto no grupo, aí eu pagaria o mensal pra testar.",
+  "Ver um pregador que eu respeito indicando o app, com autores e linha doutrinária claros, e um catálogo de verdade, com livros de estudo e não só devocionais.",
+  "Se os áudios fossem curtos, de cinco minutos, para ouvir no carro indo pro trabalho, e um pastor ou alguém da minha igreja recomendasse.",
+  "Ver uma área Kids de verdade: quantos livros e áudios infantis existem, para que idade, e a promessa de lançamentos novos todo mês.",
+  "Ver os nomes dos autores e a igreja ou ministério por trás, e ter a recomendação do meu pastor; aí eu leria os títulos grátis e talvez pegasse o anual pelo livro impresso.",
+  "Alguém do meu grupo de célula ou meu pastor indicar, mostrando quem são os autores e a igreja ou denominação por trás, e a área Kids ter bastante conteúdo em áudio que meus filhos possam ouvir sem eu ter que ler.",
+  "Se meu pastor ou alguém da minha igreja indicasse e eu visse que o conteúdo é sério, sem teologia da prosperidade.",
+  "Meu pastor ou alguém de confiança da minha igreja indicar, dizendo quem são os autores e que a doutrina é sã.",
+  "Se a maior parte fosse em áudio para eu ouvir no carro, com os autores e a linha doutrinária claros e batendo com a minha.",
+  "Uma área Kids de verdade, com histórias bíblicas em áudio e ilustradas que meus filhos queiram abrir sozinhos, indicada por alguém da minha igreja.",
+  "Se o plano anual trouxesse material bom para usar com a minha célula, tipo estudos prontos para o grupo, e o livro impresso fosse de um autor que eu conheço.",
+  "Ter de verdade um bom catálogo em áudio para ouvir no trânsito, ou algo que eu possa usar com a minha célula no WhatsApp, tipo devocional em áudio para compartilhar no grupo.",
+  "Se o plano mandasse livros impressos com mais frequência, ou se alguém da minha igreja indicasse um título que eu sentisse que ajuda de verdade no meu casamento ou nas finanças.",
+  "Saber quem são os autores e a igreja ou pastores responsáveis, e alguém da minha igreja recomendar depois de ler.",
+  "Ver um pastor ou pregador conhecido que eu sigo indicando nas redes e mostrando quem são os autores.",
+  "Um catálogo maior com estudos bíblicos para células, de autores que eu conheça, ou um plano para o grupo inteiro usar junto.",
+  "Um pastor ou pregador que eu sigo recomendar nas redes, ou ver quem são os autores e um plano de devocional em áudio curto que eu pudesse usar com a minha célula.",
+  "Ver quem são os autores e a qual denominação ou igreja eles pertencem, de preferência com o meu pastor ou alguém da minha igreja indicando. Aí eu leria a amostra grátis da área Kids com eles.",
+  "Ver os nomes dos autores e o pastor ou ministério responsável, e alguém de confiança da minha igreja recomendando no grupo de WhatsApp."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}

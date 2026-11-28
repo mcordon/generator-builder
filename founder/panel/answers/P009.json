@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Não conheço o autor nem quem está por trás disso, e já tenho a Bíblia no YouVersion e devocional todo dia no WhatsApp de graça. Talvez eu leia um dos títulos grátis, mas pagar por vinte devocionais curtos de gente que eu não sei quem é, não.",
+  "objection": "Quem escreve esses livros? Qual é a igreja, a doutrina, o pastor responsável? Não vou pôr conteúdo espiritual de gente desconhecida na minha vida, e muito menos pagar por isso, quando tenho tanta coisa boa de graça.",
+  "would_change_my_mind": "Meu pastor ou alguém de confiança da minha igreja indicar, dizendo quem são os autores e que a doutrina é sã.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

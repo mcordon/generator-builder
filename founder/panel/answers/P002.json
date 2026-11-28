@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Já leio meu devocional todo dia de graça no app da Bíblia, então não sinto falta de mais um. Vou ler os dois títulos grátis e, se forem bons, mando no grupo da célula, mas pagar por uns 20 devocionais curtos não me convence agora.",
+  "objection": "Já tenho Bíblia e devocional de graça no celular; não sei o que esses devocionais curtos têm que os gratuitos não têm, e nunca ouvi falar da 70x7 nem de quem escreve.",
+  "would_change_my_mind": "Se o pastor ou alguém da célula indicasse, ou se tivesse um devocional para casal ou finanças que a gente pudesse ler junto no grupo, aí eu pagaria o mensal pra testar.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nunca ouvi falar de 70x7 Books e nenhum pastor que eu sigo indicou. Esse negócio de quatro áreas da vida com área financeira me cheira a teologia da prosperidade; eu leria os dois grátis, mas não assinaria.",
+  "objection": "Não sei quem escreve, qual é a igreja ou a doutrina por trás. Livro sobre dinheiro e prosperidade me deixa desconfiada, e equipe pastoral que eu não conheço querendo me acompanhar também.",
+  "would_change_my_mind": "Ver um pastor ou pregador conhecido que eu sigo indicando nas redes e mostrando quem são os autores.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

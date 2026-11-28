@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "O preço é baixo, não é isso. Eu compro livro de papel de autor que eu conheço, na livraria cristã ou na igreja, e aqui não vejo nenhum nome de autor nem de qual linha de igreja vem esse conteúdo para eu colocar na mão dos meus filhos.",
+  "objection": "Não sei se é da minha linha de igreja. Quem escreve isso? Não vou deixar meu filho ler devocional de alguém que eu não sei o que ensina.",
+  "would_change_my_mind": "Ver quem são os autores e a qual denominação ou igreja eles pertencem, de preferência com o meu pastor ou alguém da minha igreja indicando. Aí eu leria a amostra grátis da área Kids com eles.",
+  "price_too_cheap": 2,
+  "price_cheap": 7,
+  "price_expensive": 20,
+  "price_too_expensive": 35
+}

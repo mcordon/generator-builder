@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu já leio a Bíblia no YouVersion e recebo devocional todo dia no WhatsApp, de graça. E quando quero um livro de verdade, prefiro o de papel, ler no celular é só pra coisa rápida.",
+  "objection": "Prefiro livro de papel, e cerca de 20 títulos curtos no celular não me parecem diferentes do que eu já tenho de graça.",
+  "would_change_my_mind": "Se o plano mandasse livros impressos com mais frequência, ou se alguém da minha igreja indicasse um título que eu sentisse que ajuda de verdade no meu casamento ou nas finanças.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

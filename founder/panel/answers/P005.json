@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "O preço é baixo, não é isso. O que eu procuro é conteúdo para os meus filhos, e o catálogo tem uns 20 títulos, a maioria devocional curto para adulto, sem dizer quanto tem de fato na área Kids. Eu leria os dois títulos grátis e as amostras e pararia por aí.",
+  "objection": "Já tenho Bíblia e devocional de graça no celular, e para as crianças não sei se tem material suficiente para valer uma assinatura. Com 20 títulos, em um mês a gente esgota.",
+  "would_change_my_mind": "Ver uma área Kids de verdade: quantos livros e áudios infantis existem, para que idade, e a promessa de lançamentos novos todo mês.",
+  "price_too_cheap": 3,
+  "price_cheap": 7,
+  "price_expensive": 20,
+  "price_too_expensive": 35
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Não conheço o autor nem quem está por trás da 70x7, e eu compro livro de papel de autor que a gente já conhece, na livraria cristã ou na igreja. Talvez eu leia as amostras grátis, mas pagar assinatura para devocional curto no celular, de gente que eu não sei a doutrina, eu não faço.",
+  "objection": "Quem escreve esses livros? Qual a linha doutrinária, qual igreja está por trás? Sem saber isso eu não indico nem para mim nem para a célula.",
+  "would_change_my_mind": "Ver os nomes dos autores e o pastor ou ministério responsável, e alguém de confiança da minha igreja recomendando no grupo de WhatsApp.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

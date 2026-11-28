@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu quase não leio no celular, e quando leio prefiro livro de papel. O que eu consumo mesmo é pregação e podcast no carro, de graça no YouTube e no Spotify; vinte devocionais curtos para ler na tela não mudam minha rotina.",
+  "objection": "Não vou ler no celular. Os áudios aparecem só de passagem, não sei quantos são nem se são bons, e um livro impresso só vem no plano anual.",
+  "would_change_my_mind": "Ter de verdade um bom catálogo em áudio para ouvir no trânsito, ou algo que eu possa usar com a minha célula no WhatsApp, tipo devocional em áudio para compartilhar no grupo.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

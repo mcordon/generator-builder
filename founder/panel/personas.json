@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Jade",
+  "age": 47,
+  "segment": "Membro de igreja que lê devocional no dia a dia",
+  "income": 39000,
+  "behaviour": "Compartilha tudo no grupo da igreja",
+  "behaviour_how": "Manda para o grupo de WhatsApp da célula o que acha bom.",
+  "objection": "Já tenho a Bíblia e devocional de graça no celular",
+  "habit": "você vai ao culto pelo menos uma vez por semana"
+ },
+ {
+  "id": "P002",
+  "name": "Ravi",
+  "age": 29,
+  "segment": "Membro de igreja que lê devocional no dia a dia",
+  "income": 48000,
+  "behaviour": "Compartilha tudo no grupo da igreja",
+  "behaviour_how": "Manda para o grupo de WhatsApp da célula o que acha bom.",
+  "objection": "Já tenho a Bíblia e devocional de graça no celular",
+  "habit": "você já comprou livro cristão na livraria da igreja"
+ },
+ {
+  "id": "P003",
+  "name": "Finn",
+  "age": 48,
+  "segment": "Pastor ou obreiro de igreja pequena",
+  "income": 65000,
+  "behaviour": "Segue pastores e pregadores famosos",
+  "behaviour_how": "Lê e ouve o que os pregadores conhecidos indicam nas redes.",
+  "objection": "São poucos livros para chamar de ilimitado",
+  "habit": "você paga pelo menos uma assinatura de streaming"
+ },
+ {
+  "id": "P004",
+  "name": "Tariq",
+  "age": 46,
+  "segment": "Membro de igreja que lê devocional no dia a dia",
+  "income": 57000,
+  "behaviour": "Já assina streaming e apps",
+  "behaviour_how": "Assina Netflix, Spotify ou Kindle Unlimited e está acostumado a pagar por mês.",
+  "objection": "Não tenho tempo para ler",
+  "habit": "você vai ao culto pelo menos uma vez por semana"
+ },
+ {
+  "id": "P005",
+  "name": "Malik",
+  "age": 42,
+  "segment": "Pai ou mãe cristãos buscando conteúdo para os filhos",
+  "income": 102000,
+  "behaviour": "Já assina streaming e apps",
+  "behaviour_how": "Assina Netflix, Spotify ou Kindle Unlimited e está acostumado a pagar por mês.",
+  "objection": "Já tenho a Bíblia e devocional de graça no celular",
+  "habit": "você já comprou livro cristão na livraria da igreja"
+ },
+ {
+  "id": "P006",
+  "name": "Gabriel",
+  "age": 46,
+  "segment": "Líder de célula, ministério ou pequeno grupo",
+  "income": 65000,
+  "behaviour": "Compra livro físico na livraria cristã",
+  "behaviour_how": "Prefere livro de papel de autores conhecidos e compra em livraria ou na igreja.",
+  "objection": "Não sei se é da minha linha de igreja",
+  "habit": "você já comprou livro cristão na livraria da igreja"
+ },
+ {
+  "id": "P007",
+  "name": "Keisha",
+  "age": 34,
+  "segment": "Pai ou mãe cristãos buscando conteúdo para os filhos",
+  "income": 95000,
+  "behaviour": "Desconfiado com dinheiro e fé",
+  "behaviour_how": "Fica com o pé atrás com quem vende conteúdo cristão e com 'teologia da prosperidade'.",
+  "objection": "Não tenho tempo para ler",
+  "habit": "você participa de um grupo de WhatsApp da igreja ou da célula"
+ },
+ {
+  "id": "P008",
+  "name": "Alma",
+  "age": 49,
+  "segment": "Membro de igreja que lê devocional no dia a dia",
+  "income": 60000,
+  "behaviour": "Usa só a Bíblia e devocionais grátis",
+  "behaviour_how": "Lê pelo app gratuito da Bíblia, YouVersion, e devocionais que chegam no WhatsApp.",
+  "objection": "Livro sobre dinheiro e prosperidade me deixa desconfiado",
+  "habit": "você já comprou livro cristão na livraria da igreja"
+ },
+ {
+  "id": "P009",
+  "name": "Iris",
+  "age": 53,
+  "segment": "Membro de igreja que lê devocional no dia a dia",
+  "income": 70000,
+  "behaviour": "Usa só a Bíblia e devocionais grátis",
+  "behaviour_how": "Lê pelo app gratuito da Bíblia, YouVersion, e devocionais que chegam no WhatsApp.",
+  "objection": "Não conheço o autor",
+  "habit": "você paga pelo menos uma assinatura de streaming"
+ },
+ {
+  "id": "P010",
+  "name": "June",
+  "age": 26,
+  "segment": "Pastor ou obreiro de igreja pequena",
+  "income": 63000,
+  "behaviour": "Lê pouco, prefere áudio e vídeo",
+  "behaviour_how": "Ouve pregação e podcast no trânsito; raramente lê um livro inteiro.",
+  "objection": "Não sei se é da minha linha de igreja",
+  "habit": "você vai ao culto pelo menos uma vez por semana"
+ },
+ {
+  "id": "P011",
+  "name": "Priya",
+  "age": 43,
+  "segment": "Pai ou mãe cristãos buscando conteúdo para os filhos",
+  "income": 91000,
+  "behaviour": "Usa só a Bíblia e devocionais grátis",
+  "behaviour_how": "Lê pelo app gratuito da Bíblia, YouVersion, e devocionais que chegam no WhatsApp.",
+  "objection": "Já tenho a Bíblia e devocional de graça no celular",
+  "habit": "você já comprou livro cristão na livraria da igreja"
+ },
+ {
+  "id": "P012",
+  "name": "Caleb",
+  "age": 31,
+  "segment": "Líder de célula, ministério ou pequeno grupo",
+  "income": 66000,
+  "behaviour": "Usa só a Bíblia e devocionais grátis",
+  "behaviour_how": "Lê pelo app gratuito da Bíblia, YouVersion, e devocionais que chegam no WhatsApp.",
+  "objection": "Prefiro livro de papel",
+  "habit": "você já comprou livro cristão na livraria da igreja"
+ },
+ {
+  "id": "P013",
+  "name": "Luis",
+  "age": 42,
+  "segment": "Líder de célula, ministério ou pequeno grupo",
+  "income": 49000,
+  "behaviour": "Lê pouco, prefere áudio e vídeo",
+  "behaviour_how": "Ouve pregação e podcast no trânsito; raramente lê um livro inteiro.",
+  "objection": "Prefiro livro de papel",
+  "habit": "você participa de um grupo de WhatsApp da igreja ou da célula"
+ },
+ {
+  "id": "P014",
+  "name": "Lina",
+  "age": 41,
+  "segment": "Membro de igreja que lê devocional no dia a dia",
+  "income": 55000,
+  "behaviour": "Usa só a Bíblia e devocionais grátis",
+  "behaviour_how": "Lê pelo app gratuito da Bíblia, YouVersion, e devocionais que chegam no WhatsApp.",
+  "objection": "Prefiro livro de papel",
+  "habit": "você lê ou ouve algo cristão no celular de manhã ou antes de dormir"
+ },
+ {
+  "id": "P015",
+  "name": "Selin",
+  "age": 25,
+  "segment": "Membro de igreja que lê devocional no dia a dia",
+  "income": 29000,
+  "behaviour": "Desconfiado com dinheiro e fé",
+  "behaviour_how": "Fica com o pé atrás com quem vende conteúdo cristão e com 'teologia da prosperidade'.",
+  "objection": "Não tenho tempo para ler",
+  "habit": "você paga pelo menos uma assinatura de streaming"
+ },
+ {
+  "id": "P016",
+  "name": "Esme",
+  "age": 42,
+  "segment": "Membro de igreja que lê devocional no dia a dia",
+  "income": 29000,
+  "behaviour": "Segue pastores e pregadores famosos",
+  "behaviour_how": "Lê e ouve o que os pregadores conhecidos indicam nas redes.",
+  "objection": "Livro sobre dinheiro e prosperidade me deixa desconfiado",
+  "habit": "você já comprou livro cristão na livraria da igreja"
+ },
+ {
+  "id": "P017",
+  "name": "Ruby",
+  "age": 50,
+  "segment": "Líder de célula, ministério ou pequeno grupo",
+  "income": 67000,
+  "behaviour": "Já assina streaming e apps",
+  "behaviour_how": "Assina Netflix, Spotify ou Kindle Unlimited e está acostumado a pagar por mês.",
+  "objection": "São poucos livros para chamar de ilimitado",
+  "habit": "você lê ou ouve algo cristão no celular de manhã ou antes de dormir"
+ },
+ {
+  "id": "P018",
+  "name": "Yusuf",
+  "age": 26,
+  "segment": "Líder de célula, ministério ou pequeno grupo",
+  "income": 43000,
+  "behaviour": "Segue pastores e pregadores famosos",
+  "behaviour_how": "Lê e ouve o que os pregadores conhecidos indicam nas redes.",
+  "objection": "Não tenho tempo para ler",
+  "habit": "você lê ou ouve algo cristão no celular de manhã ou antes de dormir"
+ },
+ {
+  "id": "P019",
+  "name": "Luca",
+  "age": 30,
+  "segment": "Pai ou mãe cristãos buscando conteúdo para os filhos",
+  "income": 115000,
+  "behaviour": "Compra livro físico na livraria cristã",
+  "behaviour_how": "Prefere livro de papel de autores conhecidos e compra em livraria ou na igreja.",
+  "objection": "Não sei se é da minha linha de igreja",
+  "habit": "você lê ou ouve algo cristão no celular de manhã ou antes de dormir"
+ },
+ {
+  "id": "P020",
+  "name": "Nadia",
+  "age": 32,
+  "segment": "Pastor ou obreiro de igreja pequena",
+  "income": 34000,
+  "behaviour": "Compra livro físico na livraria cristã",
+  "behaviour_how": "Prefere livro de papel de autores conhecidos e compra em livraria ou na igreja.",
+  "objection": "Não conheço o autor",
+  "habit": "você participa de um grupo de WhatsApp da igreja ou da célula"
+ }
+]
