@@ -1,0 +1,37 @@
+{
+  "business": "70x7 Books (assinatura de livros, orações e devocionais cristãos)",
+  "target": "Cristão evangélico brasileiro, 25 a 55 anos, que frequenta igreja e quer ler algo cristão no celular para a vida espiritual, o casamento, as finanças ou os filhos",
+  "where": "Brasil, celular",
+  "age": [25, 55],
+  "segments": [
+    {"name": "Membro de igreja que lê devocional no dia a dia", "share": 0.40, "income": [24000, 72000]},
+    {"name": "Líder de célula, ministério ou pequeno grupo", "share": 0.25, "income": [30000, 96000]},
+    {"name": "Pai ou mãe cristãos buscando conteúdo para os filhos", "share": 0.20, "income": [30000, 120000]},
+    {"name": "Pastor ou obreiro de igreja pequena", "share": 0.15, "income": [24000, 84000]}
+  ],
+  "behaviours": [
+    {"name": "Usa só a Bíblia e devocionais grátis", "share": 0.25, "how": "Lê pelo app gratuito da Bíblia, YouVersion, e devocionais que chegam no WhatsApp."},
+    {"name": "Compra livro físico na livraria cristã", "share": 0.15, "how": "Prefere livro de papel de autores conhecidos e compra em livraria ou na igreja."},
+    {"name": "Já assina streaming e apps", "share": 0.15, "how": "Assina Netflix, Spotify ou Kindle Unlimited e está acostumado a pagar por mês."},
+    {"name": "Segue pastores e pregadores famosos", "share": 0.15, "how": "Lê e ouve o que os pregadores conhecidos indicam nas redes."},
+    {"name": "Desconfiado com dinheiro e fé", "share": 0.10, "how": "Fica com o pé atrás com quem vende conteúdo cristão e com 'teologia da prosperidade'."},
+    {"name": "Compartilha tudo no grupo da igreja", "share": 0.10, "how": "Manda para o grupo de WhatsApp da célula o que acha bom."},
+    {"name": "Lê pouco, prefere áudio e vídeo", "share": 0.10, "how": "Ouve pregação e podcast no trânsito; raramente lê um livro inteiro."}
+  ],
+  "objections": [
+    "Já tenho a Bíblia e devocional de graça no celular",
+    "Não conheço o autor",
+    "São poucos livros para chamar de ilimitado",
+    "Livro sobre dinheiro e prosperidade me deixa desconfiado",
+    "Não tenho tempo para ler",
+    "Prefiro livro de papel",
+    "Não sei se é da minha linha de igreja"
+  ],
+  "habits": [
+    "você vai ao culto pelo menos uma vez por semana",
+    "você participa de um grupo de WhatsApp da igreja ou da célula",
+    "você lê ou ouve algo cristão no celular de manhã ou antes de dormir",
+    "você já comprou livro cristão na livraria da igreja",
+    "você paga pelo menos uma assinatura de streaming"
+  ]
+}
